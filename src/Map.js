@@ -1,4 +1,5 @@
 //Make map and load data from json
+// this comment is a test
 let map;
 
 function initMap() {
