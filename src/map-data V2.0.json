@@ -1,0 +1,2099 @@
+[
+  {
+    "Index": 1,
+    "Facility Name": "ABBEYDALE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "821 ABBEYDALE DR NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.05961291,
+    "Longitude": -113.9320225
+  },
+  {
+    "Index": 2,
+    "Facility Name": "ACADIA AQUATIC & FITNESS CENTRE",
+    "Facility Type": "AQUATIC & FITNESS CENTRE",
+    "Address": "9009 FAIRMOUNT DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.97347749,
+    "Longitude": -114.0601578
+  },
+  {
+    "Index": 3,
+    "Facility Name": "ACADIA ATHLETIC PARK",
+    "Facility Type": "ATHLETIC PARK",
+    "Address": "295 90 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.97102549,
+    "Longitude": -114.0629491
+  },
+  {
+    "Index": 4,
+    "Facility Name": "ACADIA COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "240 90 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.97317046,
+    "Longitude": -114.0651426
+  },
+  {
+    "Index": 5,
+    "Facility Name": "ACADIA RECREATION COMPLEX",
+    "Facility Type": "ARENA",
+    "Address": "240 90 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.97304447,
+    "Longitude": -114.0652199
+  },
+  {
+    "Index": 6,
+    "Facility Name": "ALBERT PARK / RADISSON HEIGHTS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1310 28 ST SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04153137,
+    "Longitude": -113.9927251
+  },
+  {
+    "Index": 7,
+    "Facility Name": "ARBOUR LAKE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "12 ARBOUR LAKE DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.13309369,
+    "Longitude": -114.202577
+  },
+  {
+    "Index": 8,
+    "Facility Name": "BANFF TRAIL COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2115 20 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07030324,
+    "Longitude": -114.1089218
+  },
+  {
+    "Index": 9,
+    "Facility Name": "BANKVIEW COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2418 17 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03252313,
+    "Longitude": -114.1014971
+  },
+  {
+    "Index": 10,
+    "Facility Name": "BEDDINGTON HEIGHTS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "375 BERMUDA DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.13164348,
+    "Longitude": -114.0851725
+  },
+  {
+    "Index": 11,
+    "Facility Name": "BELTLINE AQUATIC & FITNESS CENTRE",
+    "Facility Type": "AQUATIC & FITNESS CENTRE",
+    "Address": "221 12 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04124058,
+    "Longitude": -114.0669581
+  },
+  {
+    "Index": 12,
+    "Facility Name": "BELTLINE VICTORIA AND CONNAUGHT COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1302 6 ST SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03999662,
+    "Longitude": -114.0479577
+  },
+  {
+    "Index": 13,
+    "Facility Name": "BIG MARLBOROUGH PARK",
+    "Facility Type": "OUTDOOR SKATING RINK",
+    "Address": "755 MADEIRA DR NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.05929013,
+    "Longitude": -113.9451671
+  },
+  {
+    "Index": 14,
+    "Facility Name": "BOB BAHAN AQUATIC & FITNESS CENTRE",
+    "Facility Type": "AQUATIC & FITNESS CENTRE",
+    "Address": "4812 14 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04129815,
+    "Longitude": -113.9639613
+  },
+  {
+    "Index": 15,
+    "Facility Name": "BOWNESS / GREENWOOD / GREENBRIAR COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "7904 43 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.09166254,
+    "Longitude": -114.2008558
+  },
+  {
+    "Index": 16,
+    "Facility Name": "BOWNESS COMMUNITY CENTRE",
+    "Facility Type": "ARENA",
+    "Address": "7904 43 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.09164754,
+    "Longitude": -114.2001453
+  },
+  {
+    "Index": 17,
+    "Facility Name": "BOWNESS PARK LAGOON",
+    "Facility Type": "OUTDOOR SKATING RINK",
+    "Address": "8900 48 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.09679204,
+    "Longitude": -114.2147172
+  },
+  {
+    "Index": 18,
+    "Facility Name": "BOWNESS PARK WADING POOL",
+    "Facility Type": "OUTDOOR WADING POOL",
+    "Address": "8900 48 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.09724458,
+    "Longitude": -114.2115822
+  },
+  {
+    "Index": 19,
+    "Facility Name": "BOWNESS SKATEPARK",
+    "Facility Type": "SKATE PARK",
+    "Address": "4324 77 ST NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.09032624,
+    "Longitude": -114.1987641
+  },
+  {
+    "Index": 20,
+    "Facility Name": "BOWVIEW OUTDOOR POOL & WADING POOL",
+    "Facility Type": "OUTDOOR POOL",
+    "Address": "1910 6 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.05797027,
+    "Longitude": -114.1029698
+  },
+  {
+    "Index": 21,
+    "Facility Name": "BRAESIDE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "11024 BRAESIDE DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.95434611,
+    "Longitude": -114.1020364
+  },
+  {
+    "Index": 22,
+    "Facility Name": "BRENTWOOD COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "5107 33 ST NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.09750325,
+    "Longitude": -114.1378448
+  },
+  {
+    "Index": 23,
+    "Facility Name": "BRENTWOOD SPORTSPLEX",
+    "Facility Type": "ARENA",
+    "Address": "1520B NORTHMOUNT DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0975055,
+    "Longitude": -114.1378114
+  },
+  {
+    "Index": 24,
+    "Facility Name": "BRIDGELAND / RIVERSIDE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "917 CENTRE AV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.05007404,
+    "Longitude": -114.039942
+  },
+  {
+    "Index": 25,
+    "Facility Name": "CALGARY MARLBOROUGH COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "636 MARLBOROUGH WY NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0582661,
+    "Longitude": -113.9742887
+  },
+  {
+    "Index": 26,
+    "Facility Name": "CAMBRIAN HEIGHTS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "600 NORTHMOUNT DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.08682876,
+    "Longitude": -114.087382
+  },
+  {
+    "Index": 27,
+    "Facility Name": "CANMORE SPRAY PARK",
+    "Facility Type": "SPRAY PARK",
+    "Address": "2020 CHICOUTIMI DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.08106867,
+    "Longitude": -114.1093124
+  },
+  {
+    "Index": 28,
+    "Facility Name": "CANYON MEADOWS AQUATIC & FITNESS CENTRE",
+    "Facility Type": "AQUATIC & FITNESS CENTRE",
+    "Address": "89 CANOVA RD SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.94840292,
+    "Longitude": -114.0895158
+  },
+  {
+    "Index": 29,
+    "Facility Name": "CANYON MEADOWS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "848 CANTABRIAN DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.94621373,
+    "Longitude": -114.0788446
+  },
+  {
+    "Index": 30,
+    "Facility Name": "CAPITOL HILL COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1531 21 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07127566,
+    "Longitude": -114.0964586
+  },
+  {
+    "Index": 31,
+    "Facility Name": "CARBURN PARK",
+    "Facility Type": "OUTDOOR SKATING RINK",
+    "Address": "67 RIVERVIEW DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.97458453,
+    "Longitude": -114.0287657
+  },
+  {
+    "Index": 32,
+    "Facility Name": "CARRINGTON SKATEPARK",
+    "Facility Type": "SKATE PARK",
+    "Address": "37 CARRINGTON PZ NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.18185751,
+    "Longitude": -114.0939976
+  },
+  {
+    "Index": 33,
+    "Facility Name": "CEDARBRAE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "11024 OAKFIELD DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.95454752,
+    "Longitude": -114.129881
+  },
+  {
+    "Index": 34,
+    "Facility Name": "CHAPARRAL RESIDENTS ASSOCIATION",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "225 CHAPARRAL DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.88636251,
+    "Longitude": -114.0364196
+  },
+  {
+    "Index": 35,
+    "Facility Name": "CHINOOK PARK/KELVIN GROVE/EAGLE RIDGE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1015 73 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.98759577,
+    "Longitude": -114.0849477
+  },
+  {
+    "Index": 36,
+    "Facility Name": "CKE SKATEPARK",
+    "Facility Type": "SKATE PARK",
+    "Address": "1015 73 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.98735946,
+    "Longitude": -114.0839145
+  },
+  {
+    "Index": 37,
+    "Facility Name": "CLIFFE BUNGALOW/MISSION COMMUNITY ASSOCIATION",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2201 CLIFF ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03336143,
+    "Longitude": -114.0760846
+  },
+  {
+    "Index": 38,
+    "Facility Name": "COACH HILL/PATTERSON HEIGHTS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "60 PATTERSON BV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.06138085,
+    "Longitude": -114.1778466
+  },
+  {
+    "Index": 39,
+    "Facility Name": "CRESCENT HEIGHTS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1101 2 ST NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.06194408,
+    "Longitude": -114.0679851
+  },
+  {
+    "Index": 40,
+    "Facility Name": "CROSSROADS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1803 14 AV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.06516302,
+    "Longitude": -114.01913
+  },
+  {
+    "Index": 41,
+    "Facility Name": "CROWCHILD TWIN ARENAS",
+    "Facility Type": "ARENA",
+    "Address": "185 SCENIC ACRES DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.11206121,
+    "Longitude": -114.211719
+  },
+  {
+    "Index": 42,
+    "Facility Name": "CROWFOOT ARENA",
+    "Facility Type": "ARENA",
+    "Address": "8080 JOHN LAURIE BV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.12855089,
+    "Longitude": -114.1950555
+  },
+  {
+    "Index": 43,
+    "Facility Name": "DALHOUSIE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "5432 DALHART RD NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.11284884,
+    "Longitude": -114.1597161
+  },
+  {
+    "Index": 44,
+    "Facility Name": "DEER RUN COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2223 146 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.92175537,
+    "Longitude": -114.0079417
+  },
+  {
+    "Index": 45,
+    "Facility Name": "DEER RUN SKATEPARK",
+    "Facility Type": "SKATE PARK",
+    "Address": "2223 146 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.92223372,
+    "Longitude": -114.007747
+  },
+  {
+    "Index": 46,
+    "Facility Name": "DON HARTMAN NORTH EAST SPORTSPLEX",
+    "Facility Type": "ARENA",
+    "Address": "5200 68 ST NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.10234241,
+    "Longitude": -113.9335898
+  },
+  {
+    "Index": 47,
+    "Facility Name": "DOVER COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "3033 30 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.02671301,
+    "Longitude": -113.9890902
+  },
+  {
+    "Index": 48,
+    "Facility Name": "EAST CALGARY TWIN ARENAS",
+    "Facility Type": "ARENA",
+    "Address": "299 ERIN WOODS DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.02659496,
+    "Longitude": -113.9644405
+  },
+  {
+    "Index": 49,
+    "Facility Name": "EAU CLAIRE PLAZA WADING POOL & SPRAY PARK",
+    "Facility Type": "OUTDOOR WADING POOL",
+    "Address": "139 BARCLAY PR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.05335122,
+    "Longitude": -114.069601
+  },
+  {
+    "Index": 50,
+    "Facility Name": "EDGEMONT COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "33 EDGEVALLEY CI NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.12848693,
+    "Longitude": -114.1441715
+  },
+  {
+    "Index": 51,
+    "Facility Name": "ELBOW PARK COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "800 34 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.02346188,
+    "Longitude": -114.0821755
+  },
+  {
+    "Index": 52,
+    "Facility Name": "ELBOYA HEIGHTS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "416 PARK AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.01536526,
+    "Longitude": -114.072752
+  },
+  {
+    "Index": 53,
+    "Facility Name": "ERIN WOODS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "83 ERIN PARK DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.02289563,
+    "Longitude": -113.9637375
+  },
+  {
+    "Index": 54,
+    "Facility Name": "ERNEST MANNING ATHLETIC PARK",
+    "Facility Type": "ATHLETIC PARK",
+    "Address": "20 SPRINGBOROUGH BV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03642323,
+    "Longitude": -114.1921458
+  },
+  {
+    "Index": 55,
+    "Facility Name": "ERNIE STARR ARENA",
+    "Facility Type": "ARENA",
+    "Address": "4808 14 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0413688,
+    "Longitude": -113.9649277
+  },
+  {
+    "Index": 56,
+    "Facility Name": "FAIRVIEW COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "8038 FAIRMOUNT DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.98251763,
+    "Longitude": -114.05869
+  },
+  {
+    "Index": 57,
+    "Facility Name": "FALCONRIDGE/CASTLERIDGE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "95 FALSHIRE DR NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.10454915,
+    "Longitude": -113.946308
+  },
+  {
+    "Index": 58,
+    "Facility Name": "FATHER DAVID BAUER ARENA",
+    "Facility Type": "ARENA",
+    "Address": "2424 UNIVERSITY DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07377112,
+    "Longitude": -114.1263332
+  },
+  {
+    "Index": 59,
+    "Facility Name": "FLAMES COMMUNITY ARENAS",
+    "Facility Type": "ARENA",
+    "Address": "2390 47 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.01185691,
+    "Longitude": -114.1163691
+  },
+  {
+    "Index": 60,
+    "Facility Name": "FOOTHILLS ATHLETIC PARK",
+    "Facility Type": "ATHLETIC PARK",
+    "Address": "2424 UNIVERSITY DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07326728,
+    "Longitude": -114.1241706
+  },
+  {
+    "Index": 61,
+    "Facility Name": "FOREST HEIGHTS/ FONDA COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "4909 FOREGO AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0492163,
+    "Longitude": -113.963017
+  },
+  {
+    "Index": 62,
+    "Facility Name": "FOREST LAWN ATHLETIC PARK",
+    "Facility Type": "ATHLETIC PARK",
+    "Address": "4808 14 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04173198,
+    "Longitude": -113.9624607
+  },
+  {
+    "Index": 63,
+    "Facility Name": "FOREST LAWN COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "4020 26 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0308198,
+    "Longitude": -113.9768196
+  },
+  {
+    "Index": 64,
+    "Facility Name": "FOREST LAWN OUTDOOR POOL, WADING POOL & SPRAY PARK",
+    "Facility Type": "OUTDOOR POOL",
+    "Address": "1706 39 ST SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03875457,
+    "Longitude": -113.9763802
+  },
+  {
+    "Index": 65,
+    "Facility Name": "FRANK MCCOOL ARENA",
+    "Facility Type": "ARENA",
+    "Address": "1900 LAKE BONAVISTA DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.93607035,
+    "Longitude": -114.050157
+  },
+  {
+    "Index": 66,
+    "Facility Name": "FRANK MCCOOL ATHLETIC PARK",
+    "Facility Type": "ATHLETIC PARK",
+    "Address": "1900 LAKE BONAVISTA DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.93647707,
+    "Longitude": -114.051414
+  },
+  {
+    "Index": 67,
+    "Facility Name": "GEORGE BLUNDUN ARENA",
+    "Facility Type": "ARENA",
+    "Address": "5020 26 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03197786,
+    "Longitude": -114.1600449
+  },
+  {
+    "Index": 68,
+    "Facility Name": "GLAMORGAN COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "4207 41 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.01736147,
+    "Longitude": -114.145169
+  },
+  {
+    "Index": 69,
+    "Facility Name": "GLENBROOK COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "3524 45 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.02298572,
+    "Longitude": -114.1520857
+  },
+  {
+    "Index": 70,
+    "Facility Name": "GLENDALE/GLENDALE MEADOWS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2405 GLENMOUNT DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03299809,
+    "Longitude": -114.1498178
+  },
+  {
+    "Index": 71,
+    "Facility Name": "GLENMORE ATHLETIC PARK",
+    "Facility Type": "ATHLETIC PARK",
+    "Address": "5300 19 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.00739855,
+    "Longitude": -114.1026772
+  },
+  {
+    "Index": 72,
+    "Facility Name": "GRAY FAMILY EAU CLAIRE YMCA",
+    "Facility Type": "AQUATIC & FITNESS CENTRE",
+    "Address": "101 3 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0527656,
+    "Longitude": -114.070816
+  },
+  {
+    "Index": 73,
+    "Facility Name": "GREAT PLAINS RECREATION FACILITY",
+    "Facility Type": "ARENA",
+    "Address": "5749 76 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.98439782,
+    "Longitude": -113.9478672
+  },
+  {
+    "Index": 74,
+    "Facility Name": "HAYSBORO COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1204 89 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.97474555,
+    "Longitude": -114.0877857
+  },
+  {
+    "Index": 75,
+    "Facility Name": "HENRY VINEY ARENA",
+    "Facility Type": "ARENA",
+    "Address": "810 13 AV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.06538171,
+    "Longitude": -114.0453993
+  },
+  {
+    "Index": 76,
+    "Facility Name": "HIGHLAND PARK COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "3716 2 ST NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0853217,
+    "Longitude": -114.0662411
+  },
+  {
+    "Index": 77,
+    "Facility Name": "HIGHWOOD COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "16 HARLOW AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.09081185,
+    "Longitude": -114.0773512
+  },
+  {
+    "Index": 78,
+    "Facility Name": "HIGHWOOD OUTDOOR & WADING POOL",
+    "Facility Type": "OUTDOOR POOL",
+    "Address": "20 HARLOW AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.09214834,
+    "Longitude": -114.0778895
+  },
+  {
+    "Index": 79,
+    "Facility Name": "HILLHURST/SUNNYSIDE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1320 5 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.05754164,
+    "Longitude": -114.0925172
+  },
+  {
+    "Index": 80,
+    "Facility Name": "HOUNSFIELD HEIGHTS/BRIAR HILL COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1922 14 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0662269,
+    "Longitude": -114.1041076
+  },
+  {
+    "Index": 81,
+    "Facility Name": "HUNTINGTON HILLS CA",
+    "Facility Type": "ARENA",
+    "Address": "520 78 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.12374937,
+    "Longitude": -114.0723428
+  },
+  {
+    "Index": 82,
+    "Facility Name": "HUNTINGTON HILLS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "520 78 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.12372676,
+    "Longitude": -114.0722785
+  },
+  {
+    "Index": 83,
+    "Facility Name": "HUNTINGTON HILLS SKATEPARK",
+    "Facility Type": "SKATE PARK",
+    "Address": "CENTRE ST & 64 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.11122962,
+    "Longitude": -114.0652327
+  },
+  {
+    "Index": 84,
+    "Facility Name": "INGLEWOOD COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1740 24 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03251815,
+    "Longitude": -114.0195175
+  },
+  {
+    "Index": 85,
+    "Facility Name": "JACK SETTERS ARENA",
+    "Facility Type": "ARENA",
+    "Address": "2020 69 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.99175618,
+    "Longitude": -114.0124146
+  },
+  {
+    "Index": 86,
+    "Facility Name": "JIMMY CONDON ARENA",
+    "Facility Type": "ARENA",
+    "Address": "502 HERITAGE DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.98033281,
+    "Longitude": -114.0742334
+  },
+  {
+    "Index": 87,
+    "Facility Name": "KEN BRACKO ARENA",
+    "Facility Type": "ARENA",
+    "Address": "1001 BARLOW TR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04197576,
+    "Longitude": -114.0044087
+  },
+  {
+    "Index": 88,
+    "Facility Name": "KILLARNEY AQUATIC & RECREATION CENTRE",
+    "Facility Type": "AQUATIC & RECREATION CENTRE",
+    "Address": "1919 29 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03736368,
+    "Longitude": -114.1302946
+  },
+  {
+    "Index": 89,
+    "Facility Name": "KILLARNEY/GLENGARRY COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2828 28 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0287192,
+    "Longitude": -114.1276829
+  },
+  {
+    "Index": 90,
+    "Facility Name": "KINGSLAND COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "505 78 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.98295747,
+    "Longitude": -114.0740173
+  },
+  {
+    "Index": 91,
+    "Facility Name": "LAKE BONAVISTA COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1401 ACADIA DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.9369456,
+    "Longitude": -114.0492118
+  },
+  {
+    "Index": 92,
+    "Facility Name": "LAKE BONAVISTA DOWNS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1418 LAKE ONTARIO RD SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.94187315,
+    "Longitude": -114.0319163
+  },
+  {
+    "Index": 93,
+    "Facility Name": "LAKE BONAVISTA RECREATION CENTRE",
+    "Facility Type": "ARENA",
+    "Address": "1401 ACADIA DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.93689185,
+    "Longitude": -114.0491694
+  },
+  {
+    "Index": 94,
+    "Facility Name": "LAKEVIEW COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "6110 34 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.99835974,
+    "Longitude": -114.1361774
+  },
+  {
+    "Index": 95,
+    "Facility Name": "MARLBOROUGH PARK COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "6021 MADIGAN DR NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.06004504,
+    "Longitude": -113.9424869
+  },
+  {
+    "Index": 96,
+    "Facility Name": "MAX BELL #2",
+    "Facility Type": "ARENA",
+    "Address": "1001 BARLOW TR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04225917,
+    "Longitude": -114.0038894
+  },
+  {
+    "Index": 97,
+    "Facility Name": "MCKENZIE LAKE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "16198 MCKENZIE LAKE WY SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.9062787,
+    "Longitude": -113.983567
+  },
+  {
+    "Index": 98,
+    "Facility Name": "MEADOWLARK PARK COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "623 58 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.00107649,
+    "Longitude": -114.0778146
+  },
+  {
+    "Index": 99,
+    "Facility Name": "MELCOR YMCA AT CROWFOOT",
+    "Facility Type": "AQUATIC & FITNESS CENTRE",
+    "Address": "8100 JOHN LAURIE BV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.12881042,
+    "Longitude": -114.1957308
+  },
+  {
+    "Index": 100,
+    "Facility Name": "MID-SUN COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "50 MIDPARK RI SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.91543769,
+    "Longitude": -114.0566252
+  },
+  {
+    "Index": 101,
+    "Facility Name": "MID-SUN SKATEPARK",
+    "Facility Type": "SKATE PARK",
+    "Address": "50 MIDPARK RI SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.9146002,
+    "Longitude": -114.0566264
+  },
+  {
+    "Index": 102,
+    "Facility Name": "MILLICAN/OGDEN/LYNNWOOD COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "6901 20A ST SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.99147136,
+    "Longitude": -114.0108514
+  },
+  {
+    "Index": 103,
+    "Facility Name": "MILLICAN-OGDEN OUTDOOR POOL",
+    "Facility Type": "OUTDOOR POOL",
+    "Address": "6901 20A ST SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.99123016,
+    "Longitude": -114.0118206
+  },
+  {
+    "Index": 104,
+    "Facility Name": "MONTEREY PARK COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2707 CATALINA BV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07635425,
+    "Longitude": -113.9308847
+  },
+  {
+    "Index": 105,
+    "Facility Name": "MONTGOMERY COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "5003 - 16 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07160849,
+    "Longitude": -114.1656058
+  },
+  {
+    "Index": 106,
+    "Facility Name": "MOUNT PLEASANT COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "..",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07275856,
+    "Longitude": -114.0743356
+  },
+  {
+    "Index": 107,
+    "Facility Name": "MOUNT PLEASANT OUTDOOR POOL",
+    "Facility Type": "OUTDOOR POOL",
+    "Address": "630 22 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07286446,
+    "Longitude": -114.0755648
+  },
+  {
+    "Index": 108,
+    "Facility Name": "MOUNT PLEASANT SPORTSPLEX",
+    "Facility Type": "ARENA",
+    "Address": "2408 6 ST NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07341768,
+    "Longitude": -114.0754402
+  },
+  {
+    "Index": 109,
+    "Facility Name": "MOUNT ROYAL COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2317 10 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03173477,
+    "Longitude": -114.0860568
+  },
+  {
+    "Index": 110,
+    "Facility Name": "MURRAY COPOT ARENA",
+    "Facility Type": "ARENA",
+    "Address": "6715 CENTRE ST NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.11283602,
+    "Longitude": -114.0657163
+  },
+  {
+    "Index": 111,
+    "Facility Name": "NE COMMUNITY SKATEPARK",
+    "Facility Type": "SKATE PARK",
+    "Address": "7556 FALCONRIDGE BV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.11930484,
+    "Longitude": -113.9481254
+  },
+  {
+    "Index": 112,
+    "Facility Name": "NEW BRIGHTON ATHLETIC PARK",
+    "Facility Type": "ATHLETIC PARK",
+    "Address": "5801 130 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.92772606,
+    "Longitude": -113.9506234
+  },
+  {
+    "Index": 113,
+    "Facility Name": "NEW BRIGHTON SKATEPARK",
+    "Facility Type": "SKATE PARK",
+    "Address": "5801 130 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.92835248,
+    "Longitude": -113.9471858
+  },
+  {
+    "Index": 114,
+    "Facility Name": "NORMA BUSH ARENA",
+    "Facility Type": "ARENA",
+    "Address": "2424 UNIVERSITY DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07342935,
+    "Longitude": -114.1255736
+  },
+  {
+    "Index": 115,
+    "Facility Name": "NORTH GLENMORE PARK COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2231 LONGRIDGE DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.99811739,
+    "Longitude": -114.1120604
+  },
+  {
+    "Index": 116,
+    "Facility Name": "NORTH HAVEN COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "5003 NORTH HAVEN DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.09909773,
+    "Longitude": -114.0866232
+  },
+  {
+    "Index": 117,
+    "Facility Name": "OAKRIDGE CA",
+    "Facility Type": "ARENA",
+    "Address": "9504 OAKFIELD DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.96849603,
+    "Longitude": -114.1317381
+  },
+  {
+    "Index": 118,
+    "Facility Name": "OAKRIDGE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "9504 OAKFIELD DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.96876643,
+    "Longitude": -114.1319952
+  },
+  {
+    "Index": 119,
+    "Facility Name": "OLYMPIC PLAZA",
+    "Facility Type": "OUTDOOR SKATING RINK",
+    "Address": "228 8 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04582997,
+    "Longitude": -114.0589351
+  },
+  {
+    "Index": 120,
+    "Facility Name": "OPTIMIST ARENA",
+    "Facility Type": "ARENA",
+    "Address": "5020 26 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0322953,
+    "Longitude": -114.1601252
+  },
+  {
+    "Index": 121,
+    "Facility Name": "OPTIMIST ATHLETIC PARK",
+    "Facility Type": "ATHLETIC PARK",
+    "Address": "5020 26 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03328126,
+    "Longitude": -114.1615475
+  },
+  {
+    "Index": 122,
+    "Facility Name": "PALLISER, BAYVIEW, PUMPHILL COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2323 PALLISER DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.96863014,
+    "Longitude": -114.1137258
+  },
+  {
+    "Index": 123,
+    "Facility Name": "PARKDALE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "3512 5 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.06051475,
+    "Longitude": -114.1368069
+  },
+  {
+    "Index": 124,
+    "Facility Name": "PARKHILL/STANLEY PARK COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "4013 STANLEY RD SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.01847818,
+    "Longitude": -114.0647616
+  },
+  {
+    "Index": 125,
+    "Facility Name": "PARKLAND COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "505 PARKVALLEY RD SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.918028,
+    "Longitude": -114.0262459
+  },
+  {
+    "Index": 126,
+    "Facility Name": "PENBROOKE MEADOWS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "6100 8 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04590884,
+    "Longitude": -113.9463297
+  },
+  {
+    "Index": 127,
+    "Facility Name": "PINERIDGE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "6024 RUNDLEHORN DR NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07156695,
+    "Longitude": -113.945256
+  },
+  {
+    "Index": 128,
+    "Facility Name": "POP DAVIES ATHLETIC PARK",
+    "Facility Type": "ATHLETIC PARK",
+    "Address": "6415 OGDEN RD SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.9962681,
+    "Longitude": -114.0085739
+  },
+  {
+    "Index": 129,
+    "Facility Name": "PRAIRIE WINDS PARK",
+    "Facility Type": "OUTDOOR SKATING RINK",
+    "Address": "223 CASTLERIDGE BV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.1046134,
+    "Longitude": -113.9707726
+  },
+  {
+    "Index": 130,
+    "Facility Name": "PRAIRIE WINDS PARK WADING POOL & SPRAY PARK",
+    "Facility Type": "OUTDOOR WADING POOL",
+    "Address": "223 CASTLERIDGE BV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.10377504,
+    "Longitude": -113.9711474
+  },
+  {
+    "Index": 131,
+    "Facility Name": "PRINCE'S ISLAND LAGOON",
+    "Facility Type": "OUTDOOR SKATING RINK",
+    "Address": "25 PRINCE'S ISLAND PARK SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0543885,
+    "Longitude": -114.0715325
+  },
+  {
+    "Index": 132,
+    "Facility Name": "RAMSAY COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1136 8 ST SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03842577,
+    "Longitude": -114.041143
+  },
+  {
+    "Index": 133,
+    "Facility Name": "RANCHLANDS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "7713 RANCHVIEW DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.11959515,
+    "Longitude": -114.1795107
+  },
+  {
+    "Index": 134,
+    "Facility Name": "REMINGTON YMCA IN QUARRY PARK",
+    "Facility Type": "AQUATIC & FITNESS CENTRE",
+    "Address": "108 QUARRY PARK RD SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.96174718,
+    "Longitude": -114.0060918
+  },
+  {
+    "Index": 135,
+    "Facility Name": "RENFREW AQUATIC & RECREATION CENTRE",
+    "Facility Type": "AQUATIC & RECREATION CENTRE",
+    "Address": "810 13 AV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0645569,
+    "Longitude": -114.0454726
+  },
+  {
+    "Index": 136,
+    "Facility Name": "RENFREW ATHLETIC PARK",
+    "Facility Type": "ATHLETIC PARK",
+    "Address": "810 13 AV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.06558908,
+    "Longitude": -114.0439183
+  },
+  {
+    "Index": 137,
+    "Facility Name": "RENFREW COMMUNITY ASSOCIATION",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "811 RADFORD RD NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.06018402,
+    "Longitude": -114.0447379
+  },
+  {
+    "Index": 138,
+    "Facility Name": "RICHMOND/KNOB HILL COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2433 26 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.02992082,
+    "Longitude": -114.1170348
+  },
+  {
+    "Index": 139,
+    "Facility Name": "RILEY PARK WADING POOL",
+    "Facility Type": "OUTDOOR WADING POOL",
+    "Address": "800 12 ST NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.05885461,
+    "Longitude": -114.0891736
+  },
+  {
+    "Index": 140,
+    "Facility Name": "RIVERBEND COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "19 RIVERVALLEY DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.97245358,
+    "Longitude": -114.0163854
+  },
+  {
+    "Index": 141,
+    "Facility Name": "ROCKY RIDGE SKATEPARK",
+    "Facility Type": "SKATE PARK",
+    "Address": "11300 ROCKY RIDGE RD NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.15621411,
+    "Longitude": -114.2289763
+  },
+  {
+    "Index": 142,
+    "Facility Name": "ROSE KOHN ARENA",
+    "Facility Type": "ARENA",
+    "Address": "502 HERITAGE DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.98047503,
+    "Longitude": -114.0748949
+  },
+  {
+    "Index": 143,
+    "Facility Name": "ROSEDALE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "901 11 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.06215285,
+    "Longitude": -114.0814341
+  },
+  {
+    "Index": 144,
+    "Facility Name": "ROSEMONT COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2807 10 ST NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07675296,
+    "Longitude": -114.0860375
+  },
+  {
+    "Index": 145,
+    "Facility Name": "ROSSCARROCK COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "4411 10 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04279765,
+    "Longitude": -114.1507529
+  },
+  {
+    "Index": 146,
+    "Facility Name": "ROTARY CHALLENGER PARK",
+    "Facility Type": "ATHLETIC PARK",
+    "Address": "3688 48 AV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.09916569,
+    "Longitude": -113.9835253
+  },
+  {
+    "Index": 147,
+    "Facility Name": "ROTARY PARK SPRAY PARK",
+    "Facility Type": "SPRAY PARK",
+    "Address": "617 1 ST NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.05729653,
+    "Longitude": -114.0605048
+  },
+  {
+    "Index": 148,
+    "Facility Name": "RUNDLE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2409 50 ST NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07467132,
+    "Longitude": -113.9619986
+  },
+  {
+    "Index": 149,
+    "Facility Name": "RUTLAND PARK COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "3130 40 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.01838774,
+    "Longitude": -114.1352659
+  },
+  {
+    "Index": 150,
+    "Facility Name": "SADDLE RIDGE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "7614 42 ST NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.12084344,
+    "Longitude": -113.972859
+  },
+  {
+    "Index": 151,
+    "Facility Name": "SADDLETOWNE YMCA",
+    "Facility Type": "AQUATIC & FITNESS CENTRE",
+    "Address": "7556 FALCONRIDGE BV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.12031348,
+    "Longitude": -113.9478458
+  },
+  {
+    "Index": 152,
+    "Facility Name": "SCARBORO COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1727 14 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04040342,
+    "Longitude": -114.101184
+  },
+  {
+    "Index": 153,
+    "Facility Name": "SCENIC ACRES COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "8825 SCURFIELD DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.12170817,
+    "Longitude": -114.2147644
+  },
+  {
+    "Index": 154,
+    "Facility Name": "SHAGANAPPI COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2608 14 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03991525,
+    "Longitude": -114.1189263
+  },
+  {
+    "Index": 155,
+    "Facility Name": "SHAW MILLENNIUM PARK",
+    "Facility Type": "SKATE PARK",
+    "Address": "1220 9 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04612829,
+    "Longitude": -114.0918707
+  },
+  {
+    "Index": 156,
+    "Facility Name": "SHAWNESSY COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "224 SHAWMEADOWS RD SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.90670901,
+    "Longitude": -114.0751574
+  },
+  {
+    "Index": 157,
+    "Facility Name": "SHAWNESSY YMCA",
+    "Facility Type": "AQUATIC & FITNESS CENTRE",
+    "Address": "#400 333 SHAWVILLE BV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.89811407,
+    "Longitude": -114.064552
+  },
+  {
+    "Index": 158,
+    "Facility Name": "SHOULDICE ARENA",
+    "Facility Type": "ARENA",
+    "Address": "1515 HOME RD NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07107029,
+    "Longitude": -114.1654292
+  },
+  {
+    "Index": 159,
+    "Facility Name": "SHOULDICE ATHLETIC PARK",
+    "Facility Type": "ATHLETIC PARK",
+    "Address": "1515 HOME RD NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07398474,
+    "Longitude": -114.1694304
+  },
+  {
+    "Index": 160,
+    "Facility Name": "SILVER SPRINGS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "5720 SILVER RIDGE DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.10465214,
+    "Longitude": -114.1925301
+  },
+  {
+    "Index": 161,
+    "Facility Name": "SILVER SPRINGS OUTDOOR POOL",
+    "Facility Type": "OUTDOOR POOL",
+    "Address": "5720 SILVER RIDGE DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.10404388,
+    "Longitude": -114.1923413
+  },
+  {
+    "Index": 162,
+    "Facility Name": "SIR WINSTON CHURCHILL AQUATIC & REC CTR",
+    "Facility Type": "AQUATIC & RECREATION CENTRE",
+    "Address": "1520 NORTHMOUNT DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0968838,
+    "Longitude": -114.1379182
+  },
+  {
+    "Index": 163,
+    "Facility Name": "SOUTH CALGARY COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "3130 16 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.02599472,
+    "Longitude": -114.0983094
+  },
+  {
+    "Index": 164,
+    "Facility Name": "SOUTH CALGARY OUTDOOR POOL",
+    "Facility Type": "OUTDOOR POOL",
+    "Address": "1626 32 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.02525037,
+    "Longitude": -114.0988701
+  },
+  {
+    "Index": 165,
+    "Facility Name": "SOUTH HEALTH CAMPUS YMCA",
+    "Facility Type": "FITNESS CENTRE",
+    "Address": "4448 FRONT ST SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.88190307,
+    "Longitude": -113.9508688
+  },
+  {
+    "Index": 166,
+    "Facility Name": "SOUTHLAND (ED WHALEN ARENA)",
+    "Facility Type": "ARENA",
+    "Address": "2000 SOUTHLAND DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.96237074,
+    "Longitude": -114.1073633
+  },
+  {
+    "Index": 167,
+    "Facility Name": "SOUTHVIEW COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2020 33 ST SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03332154,
+    "Longitude": -113.9879885
+  },
+  {
+    "Index": 168,
+    "Facility Name": "SOUTHWOOD COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "11 SACKVILLE DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.95678372,
+    "Longitude": -114.0865931
+  },
+  {
+    "Index": 169,
+    "Facility Name": "SOUTHWOOD SKATEPARK",
+    "Facility Type": "SKATE PARK",
+    "Address": "11 SACKVILLE DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.95608108,
+    "Longitude": -114.0872003
+  },
+  {
+    "Index": 170,
+    "Facility Name": "SPRUCE CLIFF COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "3375 SPRUCE DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04750374,
+    "Longitude": -114.1363299
+  },
+  {
+    "Index": 171,
+    "Facility Name": "ST. ANDREWS HEIGHTS COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2504 13 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.06404099,
+    "Longitude": -114.121361
+  },
+  {
+    "Index": 172,
+    "Facility Name": "STANLEY PARK OUTDOOR POOL & WADING POOL",
+    "Facility Type": "OUTDOOR POOL",
+    "Address": "4011 1A ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.01720587,
+    "Longitude": -114.0692974
+  },
+  {
+    "Index": 173,
+    "Facility Name": "STRATHCONA/CHRISTIE PARK COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "277 STRATHCONA DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04727008,
+    "Longitude": -114.1799694
+  },
+  {
+    "Index": 174,
+    "Facility Name": "STU PEPPARD ARENA",
+    "Facility Type": "ARENA",
+    "Address": "5320 19 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.00638699,
+    "Longitude": -114.1037355
+  },
+  {
+    "Index": 175,
+    "Facility Name": "SUNALTA COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1627 10 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04417435,
+    "Longitude": -114.0983343
+  },
+  {
+    "Index": 176,
+    "Facility Name": "TEMPLE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "167 TEMPLEGREEN RD NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.08740934,
+    "Longitude": -113.9448539
+  },
+  {
+    "Index": 177,
+    "Facility Name": "THORNCLIFFE / GREENVIEW CA",
+    "Facility Type": "ARENA",
+    "Address": "5600 CENTRE ST NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.10154221,
+    "Longitude": -114.0617598
+  },
+  {
+    "Index": 178,
+    "Facility Name": "THORNCLIFFE/GREENVIEW COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "5600 CENTRE ST NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.1012063,
+    "Longitude": -114.0616125
+  },
+  {
+    "Index": 179,
+    "Facility Name": "THORNHILL AQUATIC & RECREATION CENTRE",
+    "Facility Type": "AQUATIC & RECREATION CENTRE",
+    "Address": "6715 CENTRE ST NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.11257027,
+    "Longitude": -114.06529
+  },
+  {
+    "Index": 180,
+    "Facility Name": "TOM BROOK ATHLETIC PARK",
+    "Facility Type": "ATHLETIC PARK",
+    "Address": "2000 SOUTHLAND DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.9638534,
+    "Longitude": -114.1078208
+  },
+  {
+    "Index": 181,
+    "Facility Name": "TRIWOOD CA",
+    "Facility Type": "ARENA",
+    "Address": "2244 CHICOUTIMI DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.08625326,
+    "Longitude": -114.1108757
+  },
+  {
+    "Index": 182,
+    "Facility Name": "TRIWOOD COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "2244 CHICOUTIMI DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.08631751,
+    "Longitude": -114.1117154
+  },
+  {
+    "Index": 183,
+    "Facility Name": "TUSCANY COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "212 TUSCANY WAY NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.12459038,
+    "Longitude": -114.2456446
+  },
+  {
+    "Index": 184,
+    "Facility Name": "TUXEDO PARK COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "202 29 AV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07891772,
+    "Longitude": -114.0596401
+  },
+  {
+    "Index": 185,
+    "Facility Name": "VALLEYVIEW SPRAY PARK",
+    "Facility Type": "SPRAY PARK",
+    "Address": "28 ST SE & 30 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0265061,
+    "Longitude": -113.9940182
+  },
+  {
+    "Index": 186,
+    "Facility Name": "VARIETY PARK SPRAY PARK",
+    "Facility Type": "SPRAY PARK",
+    "Address": "9035 24 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.97426747,
+    "Longitude": -114.1216529
+  },
+  {
+    "Index": 187,
+    "Facility Name": "VARSITY COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "4303 VARSITY DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0919828,
+    "Longitude": -114.1492338
+  },
+  {
+    "Index": 188,
+    "Facility Name": "VILLAGE SQUARE ARENA #1",
+    "Facility Type": "ARENA",
+    "Address": "2623 56 ST NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07550723,
+    "Longitude": -113.9543299
+  },
+  {
+    "Index": 189,
+    "Facility Name": "WEST HILLHURST CA",
+    "Facility Type": "ARENA",
+    "Address": "1940 6 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0580742,
+    "Longitude": -114.104541
+  },
+  {
+    "Index": 190,
+    "Facility Name": "WEST HILLHURST COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1940 6 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.05818078,
+    "Longitude": -114.10461
+  },
+  {
+    "Index": 191,
+    "Facility Name": "WESTGATE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "4943 8 AV SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04463307,
+    "Longitude": -114.1578973
+  },
+  {
+    "Index": 192,
+    "Facility Name": "WESTSIDE RECREATION CENTRE",
+    "Facility Type": "LEISURE CENTRE",
+    "Address": "2000 69 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0357134,
+    "Longitude": -114.1855656
+  },
+  {
+    "Index": 193,
+    "Facility Name": "WESTSIDE SKATEPARK",
+    "Facility Type": "SKATE PARK",
+    "Address": "2200 69 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.0342006,
+    "Longitude": -114.187032
+  },
+  {
+    "Index": 194,
+    "Facility Name": "WHITEHORN COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "228 WHITEHORN RD NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.08878862,
+    "Longitude": -113.96695
+  },
+  {
+    "Index": 195,
+    "Facility Name": "WILDWOOD COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "4411 SPRUCE DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.05188635,
+    "Longitude": -114.1508801
+  },
+  {
+    "Index": 196,
+    "Facility Name": "WILLOW PARK / MAPLERIDGE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "680 ACADIA DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.95989273,
+    "Longitude": -114.0433391
+  },
+  {
+    "Index": 197,
+    "Facility Name": "WINDSOR PARK COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "5304 6 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.00640371,
+    "Longitude": -114.0785467
+  },
+  {
+    "Index": 198,
+    "Facility Name": "WINSTON HEIGHTS/MOUNTVIEW COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "520 27 AV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07736047,
+    "Longitude": -114.0521206
+  },
+  {
+    "Index": 199,
+    "Facility Name": "WOODBINE ATHLETIC PARK",
+    "Facility Type": "ATHLETIC PARK",
+    "Address": "96 WOODFIELD DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.93736894,
+    "Longitude": -114.1197248
+  },
+  {
+    "Index": 200,
+    "Facility Name": "WOODCREEK COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "1991 WOODVIEW DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.9411119,
+    "Longitude": -114.1048706
+  },
+  {
+    "Index": 201,
+    "Facility Name": "BLUE DEVIL GOLF CLUB",
+    "Facility Type": "GOLF COURSE - PUBLIC",
+    "Address": "2300 194 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.8840349,
+    "Longitude": -114.00718
+  },
+  {
+    "Index": 202,
+    "Facility Name": "BROOKFIELD RESIDENTIAL YMCA AT SETON",
+    "Facility Type": "MULTI-SPORT FACILITY",
+    "Address": "4995 MARKET ST SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.87963815,
+    "Longitude": -113.945766
+  },
+  {
+    "Index": 203,
+    "Facility Name": "CALGARY CANOE & ROWING CLUB",
+    "Facility Type": "CANOE & ROWING CLUB",
+    "Address": "7550 CROWCHILD TR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.98647579,
+    "Longitude": -114.1173659
+  },
+  {
+    "Index": 204,
+    "Facility Name": "CALGARY SOCCER CENTRE",
+    "Facility Type": "SOCCER CENTRE",
+    "Address": "7000 48 ST SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.99244324,
+    "Longitude": -113.9609282
+  },
+  {
+    "Index": 205,
+    "Facility Name": "CARDEL REC SOUTH",
+    "Facility Type": "LEISURE CENTRE",
+    "Address": "#101 333 SHAWVILLE BV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.8970183,
+    "Longitude": -114.0636679
+  },
+  {
+    "Index": 206,
+    "Facility Name": "CONFEDERATION PARK GOLF COURSE",
+    "Facility Type": "GOLF COURSE - MUNICIPAL",
+    "Address": "3204 COLLINGWOOD DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07910903,
+    "Longitude": -114.1016949
+  },
+  {
+    "Index": 207,
+    "Facility Name": "DOUGLASDALE EAGLEQUEST GOLF COURSE",
+    "Facility Type": "GOLF COURSE - PUBLIC",
+    "Address": "7 DOUGLAS WOODS DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.94570744,
+    "Longitude": -114.0035991
+  },
+  {
+    "Index": 208,
+    "Facility Name": "FOOTHILLS AQUATIC CENTRE",
+    "Facility Type": "AQUATIC - FLAT WATER",
+    "Address": "2424 UNIVERSITY DR NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07409978,
+    "Longitude": -114.1254429
+  },
+  {
+    "Index": 209,
+    "Facility Name": "FOX HOLLOW GOLF COURSE",
+    "Facility Type": "GOLF COURSE - PUBLIC",
+    "Address": "999 32 AV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07461582,
+    "Longitude": -114.0317289
+  },
+  {
+    "Index": 210,
+    "Facility Name": "GENESIS CENTRE OF COMMUNITY WELLNESS",
+    "Facility Type": "LEISURE CENTRE",
+    "Address": "7556 FALCONRIDGE BV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.12067737,
+    "Longitude": -113.9492812
+  },
+  {
+    "Index": 211,
+    "Facility Name": "GLENMORE AQUATIC CENTRE",
+    "Facility Type": "AQUATIC - FLAT WATER",
+    "Address": "5330 19 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.006235,
+    "Longitude": -114.1054115
+  },
+  {
+    "Index": 212,
+    "Facility Name": "GLENMORE SAILING SCHOOL",
+    "Facility Type": "SAILING SCHOOL",
+    "Address": "8003 14 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.97870365,
+    "Longitude": -114.0974782
+  },
+  {
+    "Index": 213,
+    "Facility Name": "INGLEWOOD AQUATIC CENTRE",
+    "Facility Type": "AQUATIC - FLAT WATER",
+    "Address": "1525 17 AV SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03744097,
+    "Longitude": -114.0286618
+  },
+  {
+    "Index": 214,
+    "Facility Name": "INGLEWOOD GOLF & CURLING CLUB",
+    "Facility Type": "GOLF COURSE - SEMI-PRIVATE",
+    "Address": "19 GOSLING WY SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03260662,
+    "Longitude": -114.0021227
+  },
+  {
+    "Index": 215,
+    "Facility Name": "LAKEVIEW GOLF COURSE",
+    "Facility Type": "GOLF COURSE - MUNICIPAL",
+    "Address": "6540 20 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.00058771,
+    "Longitude": -114.1068322
+  },
+  {
+    "Index": 216,
+    "Facility Name": "MAPLE RIDGE GOLF COURSE",
+    "Facility Type": "GOLF COURSE - MUNICIPAL",
+    "Address": "1240 MAPLEGLADE DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.95230247,
+    "Longitude": -114.0329798
+  },
+  {
+    "Index": 217,
+    "Facility Name": "MCCALL LAKE GOLF COURSE",
+    "Facility Type": "GOLF COURSE - MUNICIPAL",
+    "Address": "1600 32 AV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.08417443,
+    "Longitude": -114.0207407
+  },
+  {
+    "Index": 218,
+    "Facility Name": "MCKENZIE MEADOWS GOLF CLUB",
+    "Facility Type": "GOLF COURSE - PUBLIC",
+    "Address": "17215 MCKENZIE MEADOWS DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.90091266,
+    "Longitude": -114.0023172
+  },
+  {
+    "Index": 219,
+    "Facility Name": "NORTH MOUNT PLEASANT ARTS CENTRE",
+    "Facility Type": "ART CENTRE",
+    "Address": "523 27 AV NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07672742,
+    "Longitude": -114.0727255
+  },
+  {
+    "Index": 220,
+    "Facility Name": "QUEENSLAND / DIAMOND COVE COMMUNITY CENTRE",
+    "Facility Type": "COMMUNITY CENTRE",
+    "Address": "649 QUEENSLAND DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.93960081,
+    "Longitude": -114.0216631
+  },
+  {
+    "Index": 221,
+    "Facility Name": "REPSOL SPORT CENTRE",
+    "Facility Type": "LEISURE CENTRE",
+    "Address": "2225 MACLEOD TR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.03457685,
+    "Longitude": -114.0633443
+  },
+  {
+    "Index": 222,
+    "Facility Name": "SHAGANAPPI GOLF COURSE",
+    "Facility Type": "GOLF COURSE - MUNICIPAL",
+    "Address": "1200 26 ST SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.04550081,
+    "Longitude": -114.1247786
+  },
+  {
+    "Index": 223,
+    "Facility Name": "SHANE HOMES YMCA AT ROCKY RIDGE",
+    "Facility Type": "MULTI-SPORT FACILITY",
+    "Address": "11300 ROCKY RIDGE RD NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.15715638,
+    "Longitude": -114.2314983
+  },
+  {
+    "Index": 224,
+    "Facility Name": "SHOULDICE AQUATIC CENTRE",
+    "Facility Type": "AQUATIC - FLAT WATER",
+    "Address": "5303 BOWNESS RD NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07708473,
+    "Longitude": -114.172003
+  },
+  {
+    "Index": 225,
+    "Facility Name": "SILVERWING LINKS",
+    "Facility Type": "GOLF COURSE - SEMI-PRIVATE",
+    "Address": "3434 48 AV NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.10063054,
+    "Longitude": -113.9905448
+  },
+  {
+    "Index": 226,
+    "Facility Name": "SOUTHLAND LEISURE CENTRE",
+    "Facility Type": "LEISURE CENTRE - MUNICIPAL",
+    "Address": "2000 SOUTHLAND DR SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.96228876,
+    "Longitude": -114.1085206
+  },
+  {
+    "Index": 227,
+    "Facility Name": "THE WINSTON GOLF CLUB",
+    "Facility Type": "GOLF COURSE - SEMI-PRIVATE",
+    "Address": "2502 6 ST NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07549628,
+    "Longitude": -114.04279
+  },
+  {
+    "Index": 228,
+    "Facility Name": "TRICO CENTRE FOR FAMILY WELLNESS",
+    "Facility Type": "LEISURE CENTRE",
+    "Address": "11150 BONAVENTURE DR SE",
+    "CSD_Name": "Calgary",
+    "Latitude": 50.95224606,
+    "Longitude": -114.0589465
+  },
+  {
+    "Index": 229,
+    "Facility Name": "VALLEY RIDGE GOLF COURSE",
+    "Facility Type": "GOLF COURSE - SEMI-PRIVATE",
+    "Address": "11618 VALLEY RIDGE PA NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.09917215,
+    "Longitude": -114.2527249
+  },
+  {
+    "Index": 230,
+    "Facility Name": "VECOVA CENTRE FOR DISABILITY SERVICES AND RESEARCH",
+    "Facility Type": "LEISURE CENTRE",
+    "Address": "3304 33 ST NW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.08220758,
+    "Longitude": -114.1325572
+  },
+  {
+    "Index": 231,
+    "Facility Name": "VILLAGE SQUARE LEISURE CENTRE",
+    "Facility Type": "LEISURE CENTRE - MUNICIPAL",
+    "Address": "2623 56 ST NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.07601411,
+    "Longitude": -113.9544375
+  },
+  {
+    "Index": 232,
+    "Facility Name": "VIVO FOR HEALTHIER GENERATIONS",
+    "Facility Type": "LEISURE CENTRE",
+    "Address": "11950 COUNTRY VILLAGE LI NE",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.15951899,
+    "Longitude": -114.0655471
+  },
+  {
+    "Index": 233,
+    "Facility Name": "WINSPORT",
+    "Facility Type": "MULTI-SPORT FACILITY",
+    "Address": "88 CANADA OLYMPIC RD SW",
+    "CSD_Name": "Calgary",
+    "Latitude": 51.08448299,
+    "Longitude": -114.2208882
+  }
+]
