@@ -1,9 +1,9 @@
 import Home from './pages/Home'
 import Calendar from './pages/Calendar'
-import SW from './pages/SW'
 import Login from './pages/Login'
 import CreateAccount from './pages/CreateAccount'
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
+import SW from "./pages/SW";
 const App = () => {
   return (
       <BrowserRouter>
