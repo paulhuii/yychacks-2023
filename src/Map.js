@@ -1,5 +1,7 @@
 //Make map and load data from json
 // this comment is a test
+
+/*
 let map;
 
 function initMap() {
@@ -36,4 +38,9 @@ const eqfeed_callback = function (results) {
 window.initMap = initMap;
 window.eqfeed_callback = eqfeed_callback;
 
-map.data.loadGeoJson('map-data.json');
+map.data.loadGeoJson('map-data V2.0.json');
+*/
+
+//map.data.loadGeoJson('map-data V2.0.json');
+
+

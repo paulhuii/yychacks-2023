@@ -1,0 +1,1090 @@
+[
+  {
+    "Index": 1,
+    "Facility Name": "AEROSPACE MUSEUM",
+    "Facility Type": "MUSEUM",
+    "Address": "4629 MCCALL WY NE",
+    "Latitude": 51.09440686,
+    "Longitude": -114.0136597
+  },
+  {
+    "Index": 2,
+    "Facility Name": "ALBERTA THEATRE PROJECTS",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "220 9 AV SE",
+    "Latitude": 51.04496079,
+    "Longitude": -114.0594411
+  },
+  {
+    "Index": 3,
+    "Facility Name": "ALEXANDER CALHOUN LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "3223 14 ST SW",
+    "Latitude": 51.0255318,
+    "Longitude": -114.0947876
+  },
+  {
+    "Index": 4,
+    "Facility Name": "ANGLICAN DIOCESE OF CALGARY ARCHIVES",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "UNIVERSITY OF CALGARY LIBRARY 2920 -24TH AVENUE NORTHWEST CALGARY ALBERTA T2N 1N4 CANADA",
+    "Latitude": "..",
+    "Longitude": ".."
+  },
+  {
+    "Index": 5,
+    "Facility Name": "ARASHI-DO MARTIAL ARTS HERITAGE",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "8318 FAIRMOUNT DR SE",
+    "Latitude": 50.97874918,
+    "Longitude": -114.0594125
+  },
+  {
+    "Index": 6,
+    "Facility Name": "ARBOR VALLEY CABINET GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "131 61 AV SE",
+    "Latitude": 50.99743873,
+    "Longitude": -114.0620788
+  },
+  {
+    "Index": 7,
+    "Facility Name": "ARCTIC INSTITUTE OF NORTH AMERICA",
+    "Facility Type": "GALLERY",
+    "Address": "ES 1040-2500 UNIVERSITY DR. NW CALGARY ALBERTA T2N 1N4 CANADA",
+    "Latitude": "..",
+    "Longitude": ".."
+  },
+  {
+    "Index": 8,
+    "Facility Name": "ARMY MUSEUM OF ALBERTA",
+    "Facility Type": "MUSEUM",
+    "Address": "4520 CROWCHILD TRAIL SW CALGARY ALBERTA T2T 5J4 CANADA",
+    "Latitude": 51.01423945,
+    "Longitude": -114.1162943
+  },
+  {
+    "Index": 9,
+    "Facility Name": "ART BEALING FLOWER GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "4119 17 AV SE",
+    "Latitude": 51.0375467,
+    "Longitude": -113.9747447
+  },
+  {
+    "Index": 10,
+    "Facility Name": "ARTPOINT GALLERY & STUDIOS",
+    "Facility Type": "GALLERY",
+    "Address": "1038 17 AV SE",
+    "Latitude": 51.03853172,
+    "Longitude": -114.037083
+  },
+  {
+    "Index": 11,
+    "Facility Name": "AVENIDA ART & FRAMING GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "#2 625 77 AV SE",
+    "Latitude": 50.98403565,
+    "Longitude": -114.0498916
+  },
+  {
+    "Index": 12,
+    "Facility Name": "BALLET BARRE WORKS",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "#D 1410 4 ST SW",
+    "Latitude": 51.03933628,
+    "Longitude": -114.0711977
+  },
+  {
+    "Index": 13,
+    "Facility Name": "BIG SECRET THEATRE FUTURE COCKTAIL LOUNGE",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "#21 225 8 AV SE",
+    "Latitude": 51.04496079,
+    "Longitude": -114.0594411
+  },
+  {
+    "Index": 14,
+    "Facility Name": "BLACK EARTH FLORAL GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "#232 5149 COUNTRY HILLS BV NW",
+    "Latitude": 51.13740834,
+    "Longitude": -114.1587633
+  },
+  {
+    "Index": 15,
+    "Facility Name": "BMW GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "7699 110 AV NW",
+    "Latitude": 51.1522353,
+    "Longitude": -114.1954624
+  },
+  {
+    "Index": 16,
+    "Facility Name": "BOFT FINE RUGS GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "1225B 9 AV SE",
+    "Latitude": 51.04134882,
+    "Longitude": -114.0351811
+  },
+  {
+    "Index": 17,
+    "Facility Name": "BOW HABITAT STATION",
+    "Facility Type": "MUSEUM",
+    "Address": "1440 -17A STREET SE CALGARY ALBERTA T2G 4T9 CANADA",
+    "Latitude": 51.0421477,
+    "Longitude": -114.017551
+  },
+  {
+    "Index": 18,
+    "Facility Name": "BOWNESS LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "7930 BOWNESS RD NW (51.0872841, -114.1830978)",
+    "Latitude": 51.0872841,
+    "Longitude": -114.1830978
+  },
+  {
+    "Index": 19,
+    "Facility Name": "CALGARY CHINESE CULTURAL CENTRE",
+    "Facility Type": "ART OR CULTURAL CENTRE",
+    "Address": "197 1 ST SW",
+    "Latitude": 51.05130954,
+    "Longitude": -114.0654814
+  },
+  {
+    "Index": 20,
+    "Facility Name": "CALGARY COIN GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "1404 CENTRE ST SE",
+    "Latitude": 51.03926557,
+    "Longitude": -114.0627392
+  },
+  {
+    "Index": 21,
+    "Facility Name": "CALGARY COMMUNITY THEATRE",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "375 BERMUDA DR NW",
+    "Latitude": 51.13166756,
+    "Longitude": -114.0852224
+  },
+  {
+    "Index": 22,
+    "Facility Name": "CALGARY GRAND THEATRE SOCIETY (THE)",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "608 1 ST SW",
+    "Latitude": 51.04714906,
+    "Longitude": -114.0646342
+  },
+  {
+    "Index": 23,
+    "Facility Name": "CALGARY HERITAGE ROASTING CO.",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "2010 11 ST SE",
+    "Latitude": 51.03528021,
+    "Longitude": -114.0363627
+  },
+  {
+    "Index": 24,
+    "Facility Name": "CALGARY HIGHLANDERS REGIMENTAL MUSEUM AND ARCHIVES",
+    "Facility Type": "MUSEUM",
+    "Address": "THE MUSEUM OF THE REGIMENTS 4520 CROWCHILD TRAIL SW CALGARY ALBERTA T2T 5J4 CANADA",
+    "Latitude": 51.01423945,
+    "Longitude": -114.1162943
+  },
+  {
+    "Index": 25,
+    "Facility Name": "CALGARY ITALIAN CULTURAL CENTRE",
+    "Facility Type": "ART OR CULTURAL CENTRE",
+    "Address": "416 1 AV NE",
+    "Latitude": 51.0537463,
+    "Longitude": -114.0531472
+  },
+  {
+    "Index": 26,
+    "Facility Name": "CALGARY MILITARY MUSEUMS SOCIETY",
+    "Facility Type": "MUSEUM",
+    "Address": "4629 MCCALL WAY NE CALGARY ALBERTA T2E 8A5 CANADA",
+    "Latitude": 51.09385585,
+    "Longitude": -114.0129894
+  },
+  {
+    "Index": 27,
+    "Facility Name": "CALGARY MOSQUITO SOCIETY",
+    "Facility Type": "MUSEUM",
+    "Address": "1021-3235 56 ST NE CALGARY ALBERTA T1Y 2X7 CANADA",
+    "Latitude": "..",
+    "Longitude": ".."
+  },
+  {
+    "Index": 28,
+    "Facility Name": "CALGARY PUBLIC LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "800 - 3 STREET SE",
+    "Latitude": 51.0455213,
+    "Longitude": -114.0550679
+  },
+  {
+    "Index": 29,
+    "Facility Name": "CANADA'S SPORTS HALL OF FAME",
+    "Facility Type": "MUSEUM",
+    "Address": "169 CANADA OLYMPIC RD S W CALGARY ALBERTA T3B 6B7 CANADA",
+    "Latitude": "..",
+    "Longitude": ".."
+  },
+  {
+    "Index": 30,
+    "Facility Name": "CANADIAN COUNCIL FOR RAILWAY HERITAGE",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "# 305 2127 90TH AVENUE SW CALGARY ALBERTA T2V 0X6 CANADA",
+    "Latitude": "..",
+    "Longitude": ".."
+  },
+  {
+    "Index": 31,
+    "Facility Name": "CAR GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "330 40 AV NE",
+    "Latitude": 51.08902127,
+    "Longitude": -114.0560259
+  },
+  {
+    "Index": 32,
+    "Facility Name": "CARSTAR HERITAGE",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "#101 7905 FLINT RD SE",
+    "Latitude": 50.98294666,
+    "Longitude": -114.0700758
+  },
+  {
+    "Index": 33,
+    "Facility Name": "CHINESE CULTURAL CENTRE CUISINE",
+    "Facility Type": "ART OR CULTURAL CENTRE",
+    "Address": "#88 197 1 ST SW",
+    "Latitude": 51.05130954,
+    "Longitude": -114.0654814
+  },
+  {
+    "Index": 34,
+    "Facility Name": "CONSIGNMENT GALLERY (THE)",
+    "Facility Type": "GALLERY",
+    "Address": "#8 533 58 AV SE",
+    "Latitude": 51.00068053,
+    "Longitude": -114.0516861
+  },
+  {
+    "Index": 35,
+    "Facility Name": "CONTEMPORARY CALGARY ART SOCIETY",
+    "Facility Type": "GALLERY",
+    "Address": "117 -8 AVENUE SOUTH WEST CALGARY ALBERTA T2P 1B4 CANADA",
+    "Latitude": 51.0453452,
+    "Longitude": -114.0641281
+  },
+  {
+    "Index": 36,
+    "Facility Name": "COUNTRY HILLS LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "388 COUNTRY HILLS BV NE (51.159462, -114.0675659)",
+    "Latitude": 51.159462,
+    "Longitude": -114.0675659
+  },
+  {
+    "Index": 37,
+    "Facility Name": "CROATIAN CANADIAN CULTURAL CENTRE CALGARY",
+    "Facility Type": "ART OR CULTURAL CENTRE",
+    "Address": "3010 12 ST NE",
+    "Latitude": 51.07907852,
+    "Longitude": -114.0248715
+  },
+  {
+    "Index": 38,
+    "Facility Name": "CROWFOOT LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "8685 NOSE HILL DR NW (51.1295815, -114.1926956)",
+    "Latitude": 51.1295815,
+    "Longitude": -114.1926956
+  },
+  {
+    "Index": 39,
+    "Facility Name": "ESKER FOUNDATION",
+    "Facility Type": "GALLERY",
+    "Address": "444 1011-9TH AVE S E CALGARY ALBERTA T2G 0H7 CANADA",
+    "Latitude": "..",
+    "Longitude": ".."
+  },
+  {
+    "Index": 40,
+    "Facility Name": "FESTIVAL MARKET AT EAU CLAIRE",
+    "Facility Type": "FESTIVAL SITE",
+    "Address": "139 BARCLAY PR SW",
+    "Latitude": 51.05245324,
+    "Longitude": -114.0695072
+  },
+  {
+    "Index": 41,
+    "Facility Name": "FIN GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "#1B 1304 4 ST SW",
+    "Latitude": 51.04029051,
+    "Longitude": -114.0711852
+  },
+  {
+    "Index": 42,
+    "Facility Name": "FIREFIGHTER'S MUSEUM SOCIETY CALGARY",
+    "Facility Type": "MUSEUM",
+    "Address": "4144 11 ST SE",
+    "Latitude": 51.01752815,
+    "Longitude": -114.0361051
+  },
+  {
+    "Index": 43,
+    "Facility Name": "FIREFIGHTERS MUSEUM OF CALGARY",
+    "Facility Type": "MUSEUM",
+    "Address": "4124 11 ST SE CALGARY ALBERTA T2G 3H2 CANADA",
+    "Latitude": 51.01860035,
+    "Longitude": -114.035664
+  },
+  {
+    "Index": 44,
+    "Facility Name": "FISH CREEK LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "11161 BONAVENTURE DR SE (50.9516296, -114.0603409)",
+    "Latitude": 50.9516296,
+    "Longitude": -114.0603409
+  },
+  {
+    "Index": 45,
+    "Facility Name": "FOLK FESTIVAL SOCIETY OF CALGARY",
+    "Facility Type": "FESTIVAL SITE",
+    "Address": "1215 10 AV SE",
+    "Latitude": 51.04046079,
+    "Longitude": -114.0358699
+  },
+  {
+    "Index": 46,
+    "Facility Name": "FOREST LAWN LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "4807 8 AV SE (51.045105, -113.9652023)",
+    "Latitude": 51.045105,
+    "Longitude": -113.9652023
+  },
+  {
+    "Index": 47,
+    "Facility Name": "FORT CALGARY PRESERVATION SOCIETY",
+    "Facility Type": "MUSEUM",
+    "Address": "750 9TH AVENUE SE CALGARY ALBERTA T2G 5E1 CANADA",
+    "Latitude": 51.04461928,
+    "Longitude": -114.0439563
+  },
+  {
+    "Index": 48,
+    "Facility Name": "FRAMING AND ART CENTRE",
+    "Facility Type": "ART OR CULTURAL CENTRE",
+    "Address": "1218 16 AV NW",
+    "Latitude": 51.06730222,
+    "Longitude": -114.0885082
+  },
+  {
+    "Index": 49,
+    "Facility Name": "GAINSBOROUGH GALLERIES AND PICTURE FRAMING",
+    "Facility Type": "GALLERY",
+    "Address": "114 61 AV SW",
+    "Latitude": 50.99805418,
+    "Longitude": -114.0645626
+  },
+  {
+    "Index": 50,
+    "Facility Name": "GLENBOW MUSEUM",
+    "Facility Type": "MUSEUM",
+    "Address": "130 9 AVE SE CALGARY ALBERTA T2G 0P3 CANADA",
+    "Latitude": 51.04504775,
+    "Longitude": -114.0612624
+  },
+  {
+    "Index": 51,
+    "Facility Name": "GLENMORE SQUARE LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "7740 18 ST SE (50.9835968, -114.0141449)",
+    "Latitude": 50.9835968,
+    "Longitude": -114.0141449
+  },
+  {
+    "Index": 52,
+    "Facility Name": "GRANITE GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "1089 57 AV NE",
+    "Latitude": 51.10518581,
+    "Longitude": -114.0390788
+  },
+  {
+    "Index": 53,
+    "Facility Name": "H/W SCHOOL OF BALLET",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "#15 2633 HOCHWALD AV SW",
+    "Latitude": 51.02042184,
+    "Longitude": -114.1211636
+  },
+  {
+    "Index": 54,
+    "Facility Name": "HARDWOOD GALLERY & DESIGN CENTER",
+    "Facility Type": "GALLERY",
+    "Address": "#7 5608 1 ST SE",
+    "Latitude": 51.00438161,
+    "Longitude": -114.0614593
+  },
+  {
+    "Index": 55,
+    "Facility Name": "HBI - HERITAGE BUSINESS INTERIORS",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "#2050 2600 PORTLAND ST SE",
+    "Latitude": 51.03139728,
+    "Longitude": -114.0313116
+  },
+  {
+    "Index": 56,
+    "Facility Name": "HEFFEL GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "#609 888 4 AV SW",
+    "Latitude": 51.05011489,
+    "Longitude": -114.0804824
+  },
+  {
+    "Index": 57,
+    "Facility Name": "HERITAGE BAKERY & DELI",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "1912 37 ST SW",
+    "Latitude": 51.03729865,
+    "Longitude": -114.1408468
+  },
+  {
+    "Index": 58,
+    "Facility Name": "HERITAGE COLLEGE",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "#140 3015 12 ST NE",
+    "Latitude": 51.07875223,
+    "Longitude": -114.0264841
+  },
+  {
+    "Index": 59,
+    "Facility Name": "HERITAGE FUNERAL HOME",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "1708 16 AV NW",
+    "Latitude": 51.06722859,
+    "Longitude": -114.1001775
+  },
+  {
+    "Index": 60,
+    "Facility Name": "HERITAGE HOUSE",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "304 19 AV SW",
+    "Latitude": 51.03648135,
+    "Longitude": -114.068854
+  },
+  {
+    "Index": 61,
+    "Facility Name": "HERITAGE HOUSE",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "2020 URQUHART RD NW",
+    "Latitude": 51.07071593,
+    "Longitude": -114.1281368
+  },
+  {
+    "Index": 62,
+    "Facility Name": "HERITAGE PARK HISTORICAL VILLAGE",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "1900 HERITAGE DRIVE SOUTH WEST CALGARY ALBERTA T2V 2X3 CANADA",
+    "Latitude": 50.9840488,
+    "Longitude": -114.1087044
+  },
+  {
+    "Index": 63,
+    "Facility Name": "HERITAGE POSTERS & MUSIC",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "1316 11 AV SW",
+    "Latitude": 51.04353792,
+    "Longitude": -114.0921815
+  },
+  {
+    "Index": 64,
+    "Facility Name": "HERITAGE PROPERTY MAINTENANCE",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "#110 3907 3A ST NE",
+    "Latitude": 51.08718758,
+    "Longitude": -114.0541232
+  },
+  {
+    "Index": 65,
+    "Facility Name": "HERITAGE STATION CAR WASH",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "8500 HORTON RD SW",
+    "Latitude": 50.97718509,
+    "Longitude": -114.0729857
+  },
+  {
+    "Index": 66,
+    "Facility Name": "HERRINGER KISS GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "#101 1615 10 AV SW",
+    "Latitude": 51.04399877,
+    "Longitude": -114.0976368
+  },
+  {
+    "Index": 67,
+    "Facility Name": "HYUNDAI GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "11770 LAKE FRASER DR SE",
+    "Latitude": 50.94972875,
+    "Longitude": -114.0669397
+  },
+  {
+    "Index": 68,
+    "Facility Name": "ILLINGWORTH KERR GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "1407-14 AVENUE NORTH WEST CALGARY ALBERTA T2N 4R3 CANADA",
+    "Latitude": 51.06205325,
+    "Longitude": -114.0914597
+  },
+  {
+    "Index": 69,
+    "Facility Name": "INGLEWOOD BIRD SANCTUARY",
+    "Facility Type": "MUSEUM",
+    "Address": "2425 -9 AVENUE SOUTH EAST CALGARY ALBERTA T2G 4T4 CANADA",
+    "Latitude": 51.044438,
+    "Longitude": -114.0573379
+  },
+  {
+    "Index": 70,
+    "Facility Name": "JEROME'S APPLIANCE GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "7152 FISHER ST SE",
+    "Latitude": 50.99138632,
+    "Longitude": -114.068944
+  },
+  {
+    "Index": 71,
+    "Facility Name": "JOIELENE ARTISTRY",
+    "Facility Type": "ARTIST",
+    "Address": "#207 1001 1 ST SE",
+    "Latitude": 51.04300908,
+    "Longitude": -114.0612356
+  },
+  {
+    "Index": 72,
+    "Facility Name": "JUDITH UMBACH LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "6617 CENTRE ST N (51.1121979, -114.0633087)",
+    "Latitude": 51.1121979,
+    "Longitude": -114.0633087
+  },
+  {
+    "Index": 73,
+    "Facility Name": "KING`S OWN CALGARY REGIMENT (RCAC) MUSEUM",
+    "Facility Type": "MUSEUM",
+    "Address": "THE MILITARY MUSEUMS 4520 CROWCHILD TRAIL S WE CALGARY ALBERTA T2T 5J4 CANADA",
+    "Latitude": 51.01423945,
+    "Longitude": -114.1162943
+  },
+  {
+    "Index": 74,
+    "Facility Name": "LEIGHTON ART CENTRE",
+    "Facility Type": "GALLERY",
+    "Address": "BOX 9 SITE 31 RR 8 CALGARY ALBERTA T2J 2T9 CANADA",
+    "Latitude": "..",
+    "Longitude": ".."
+  },
+  {
+    "Index": 75,
+    "Facility Name": "LOCH GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "314 12 AV SW",
+    "Latitude": 51.04189873,
+    "Longitude": -114.0687331
+  },
+  {
+    "Index": 76,
+    "Facility Name": "LOOSE MOOSE THEATRE",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "#220 1235 26 AV SE",
+    "Latitude": 51.03008869,
+    "Longitude": -114.0353576
+  },
+  {
+    "Index": 77,
+    "Facility Name": "LORD STRATHCONA`S HORSE (ROYAL CANADIANS) MUSEUM AND ARCHIVES",
+    "Facility Type": "MUSEUM",
+    "Address": "THE MUSEUM OF THE REGIMENTS 4520 CROWCHILD TRAIL SW CALGARY ALBERTA T2T 5J4 CANADA",
+    "Latitude": 51.01423945,
+    "Longitude": -114.1162943
+  },
+  {
+    "Index": 78,
+    "Facility Name": "LOUGHEED HOUSE",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "707 -13 AVENUE SW CALGARY ALBERTA T2R 0K8 CANADA",
+    "Latitude": 51.0405964,
+    "Longitude": -114.0771672
+  },
+  {
+    "Index": 79,
+    "Facility Name": "LOUISE RILEY LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "1904 14 AV NW (51.0652428, -114.1038132)",
+    "Latitude": 51.0652428,
+    "Longitude": -114.1038132
+  },
+  {
+    "Index": 80,
+    "Facility Name": "MASTERS GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "#107 2115 4 ST SW",
+    "Latitude": 51.03357671,
+    "Longitude": -114.0719848
+  },
+  {
+    "Index": 81,
+    "Facility Name": "MAX BELL THEATRE",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "215 8 AV SE",
+    "Latitude": 51.04496079,
+    "Longitude": -114.0594411
+  },
+  {
+    "Index": 82,
+    "Facility Name": "MEMORIAL PARK LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "1221 2 ST SW (51.0412674, -114.0683823)",
+    "Latitude": 51.0412674,
+    "Longitude": -114.0683823
+  },
+  {
+    "Index": 83,
+    "Facility Name": "MONA LISA ARTISTS' MATERIALS",
+    "Facility Type": "ARTIST",
+    "Address": "1518 7 ST SW",
+    "Latitude": 51.03824865,
+    "Longitude": -114.0789662
+  },
+  {
+    "Index": 84,
+    "Facility Name": "MOUNT ROYAL CONSERVATORY",
+    "Facility Type": "ART OR CULTURAL CENTRE",
+    "Address": "4825 MOUNT ROYAL GATE SW CALGARY ALBERTA T3E 6K6 CANADA",
+    "Latitude": 51.0087911,
+    "Longitude": -114.1200196
+  },
+  {
+    "Index": 85,
+    "Facility Name": "MSBCA CULTURAL CENTRE",
+    "Facility Type": "ART OR CULTURAL CENTRE",
+    "Address": "#301 114 3 AV SW",
+    "Latitude": 51.05061031,
+    "Longitude": -114.0635162
+  },
+  {
+    "Index": 86,
+    "Facility Name": "NATIONAL MUSIC CENTRE",
+    "Facility Type": "ART OR CULTURAL CENTRE",
+    "Address": "STUDIO BELL 850 4 STREET SE CALGARY ALBERTA T2G 1R1 CANADA",
+    "Latitude": 51.0445995,
+    "Longitude": -114.0530584
+  },
+  {
+    "Index": 87,
+    "Facility Name": "NATTY'S HERITAGE CARIBBEAN FOOD WAREHOUSE",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "#140 3132 26 ST NE",
+    "Latitude": 51.08037376,
+    "Longitude": -113.9973116
+  },
+  {
+    "Index": 88,
+    "Facility Name": "NAVAL MUSEUM OF ALBERTA",
+    "Facility Type": "MUSEUM",
+    "Address": "THE MILITARY MUSEUMS 4520 CROWCHILD TRAIL SW CALGARY ALBERTA T2T 5J4 CANADA",
+    "Latitude": 51.01423945,
+    "Longitude": -114.1162943
+  },
+  {
+    "Index": 89,
+    "Facility Name": "NEW ZONES GALLERY OF CONTEMPORARY ART",
+    "Facility Type": "GALLERY",
+    "Address": "730 11 AV SW",
+    "Latitude": 51.04303516,
+    "Longitude": -114.0782998
+  },
+  {
+    "Index": 90,
+    "Facility Name": "NICKLE GALLERIES",
+    "Facility Type": "GALLERY",
+    "Address": "UNIVERSITY OF CALGARY 2500 UNIVERSITY DR. N.W. CALGARY ALBERTA T2N 1N4 CANADA",
+    "Latitude": 51.07423285,
+    "Longitude": -114.1462839
+  },
+  {
+    "Index": 91,
+    "Facility Name": "NORTH MOUNT PLEASANT ARTS CENTRE",
+    "Facility Type": "ART OR CULTURAL CENTRE",
+    "Address": "523 27 AV NW",
+    "Latitude": 51.07672742,
+    "Longitude": -114.0727255
+  },
+  {
+    "Index": 92,
+    "Facility Name": "NOSE HILL LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "1530 NORTHMOUNT DR NW (51.0960922, -114.1391296)",
+    "Latitude": 51.0960922,
+    "Longitude": -114.1391296
+  },
+  {
+    "Index": 93,
+    "Facility Name": "OPTIMUM WELLNESS CENTRES MACLEOD & HERITAGE",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "8860 MACLEOD TR SE",
+    "Latitude": 50.97450777,
+    "Longitude": -114.0692567
+  },
+  {
+    "Index": 94,
+    "Facility Name": "PALACE THEATRE (THE)",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "219 8 AV SW",
+    "Latitude": 51.0453854,
+    "Longitude": -114.0665144
+  },
+  {
+    "Index": 95,
+    "Facility Name": "PAULA TIMM ARTIST STUDIO",
+    "Facility Type": "ARTIST",
+    "Address": "#125 1721 29 AV SW",
+    "Latitude": 51.02726171,
+    "Longitude": -114.1008779
+  },
+  {
+    "Index": 96,
+    "Facility Name": "PHARAOH'S GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "1512 17 AV SW",
+    "Latitude": 51.03804883,
+    "Longitude": -114.0964452
+  },
+  {
+    "Index": 97,
+    "Facility Name": "PIANO GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "#6 8989 MACLEOD TR SW",
+    "Latitude": 50.97360675,
+    "Longitude": -114.0727958
+  },
+  {
+    "Index": 98,
+    "Facility Name": "PLATINUM HERITAGE CONSTRUCTION",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "#111 70 COUNTRY HILLS LD NW",
+    "Latitude": 51.14153191,
+    "Longitude": -114.0728655
+  },
+  {
+    "Index": 99,
+    "Facility Name": "PLAZA THEATRE",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "1133 KENSINGTON RD NW",
+    "Latitude": 51.05219705,
+    "Longitude": -114.0879073
+  },
+  {
+    "Index": 100,
+    "Facility Name": "POLISH CANADIAN CULTURAL CENTRE",
+    "Facility Type": "ART OR CULTURAL CENTRE",
+    "Address": "3015 15 ST NE",
+    "Latitude": 51.07942183,
+    "Longitude": -114.0242498
+  },
+  {
+    "Index": 101,
+    "Facility Name": "PRINCESS PATRICIA'S CANADIAN LIGHT INFANTRY MUSEUM AND ARCHIVES",
+    "Facility Type": "MUSEUM",
+    "Address": "PPCLI MUSEUM AND ARCHIVES 4520 CROWCHILD TRAIL S W CALGARY ALBERTA T2T 5J4 CANADA",
+    "Latitude": "..",
+    "Longitude": ".."
+  },
+  {
+    "Index": 102,
+    "Facility Name": "PUMPHOUSE THEATRE",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "2140 PUMPHOUSE AV SW",
+    "Latitude": 51.04631326,
+    "Longitude": -114.109984
+  },
+  {
+    "Index": 103,
+    "Facility Name": "RUBAIYAT CRAFT GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "#B 722 17 AV SW",
+    "Latitude": 51.03814115,
+    "Longitude": -114.0782312
+  },
+  {
+    "Index": 104,
+    "Facility Name": "RUBERTO OSTBERG GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "2108 18 ST NW",
+    "Latitude": 51.07080734,
+    "Longitude": -114.1043281
+  },
+  {
+    "Index": 105,
+    "Facility Name": "SADDLETOWNE LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "7556 FALCONRIDGE BL NE (51.1196709, -113.9485092)",
+    "Latitude": 51.1196709,
+    "Longitude": -113.9485092
+  },
+  {
+    "Index": 106,
+    "Facility Name": "SAHAR ARTISTRY",
+    "Facility Type": "ARTIST",
+    "Address": "#332 508 24 AV SW",
+    "Latitude": 51.03183337,
+    "Longitude": -114.0718531
+  },
+  {
+    "Index": 107,
+    "Facility Name": "SAVE-ON-FOODS (HERITAGE)",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "8855 MACLEOD TR SW",
+    "Latitude": 50.97439533,
+    "Longitude": -114.0726695
+  },
+  {
+    "Index": 108,
+    "Facility Name": "SHAWNESSY LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "333 SHAWVILLE BV SE (50.8986015, -114.062851)",
+    "Latitude": 50.8986015,
+    "Longitude": -114.062851
+  },
+  {
+    "Index": 109,
+    "Facility Name": "SIGNAL HILL LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "5994 SIGNAL HILL CE SW (51.0181122, -114.1756439)",
+    "Latitude": 51.0181122,
+    "Longitude": -114.1756439
+  },
+  {
+    "Index": 110,
+    "Facility Name": "SMALL SPACE GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "#102 424 10 ST NW",
+    "Latitude": 51.05650345,
+    "Longitude": -114.0856341
+  },
+  {
+    "Index": 111,
+    "Facility Name": "SOUTHWOOD LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "924 SOUTHLAND DR SW (50.963623, -114.0860367)",
+    "Latitude": 50.963623,
+    "Longitude": -114.0860367
+  },
+  {
+    "Index": 112,
+    "Facility Name": "STAGE WEST THEATRE RESTAURANT",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "727 42 AV SE",
+    "Latitude": 51.0154159,
+    "Longitude": -114.0466582
+  },
+  {
+    "Index": 113,
+    "Facility Name": "STEINWAY PIANO GALLERY CALGARY",
+    "Facility Type": "GALLERY",
+    "Address": "76 HERITAGE GA SE",
+    "Latitude": 50.98925743,
+    "Longitude": -114.0429962
+  },
+  {
+    "Index": 114,
+    "Facility Name": "STONE GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "#9 5656 10 ST NE",
+    "Latitude": 51.10366187,
+    "Longitude": -114.0375385
+  },
+  {
+    "Index": 115,
+    "Facility Name": "TELUS SPARK",
+    "Facility Type": "MUSEUM",
+    "Address": "220 ST. GEORGE'S DRIVE NE CALGARY ALBERTA T2E 5T2 CANADA",
+    "Latitude": 51.0538728,
+    "Longitude": -114.024439
+  },
+  {
+    "Index": 116,
+    "Facility Name": "THE AIR FORCE MUSEUM OF ALBERTA",
+    "Facility Type": "MUSEUM",
+    "Address": "THE MILITARY MUSEUMS 4520 CROWCHILD TRAIL SOUTH WEST CALGARY ALBERTA T2T 5J4 CANADA",
+    "Latitude": 51.01423945,
+    "Longitude": -114.1162943
+  },
+  {
+    "Index": 117,
+    "Facility Name": "THE GRAIN ACADEMY & MUSEUM",
+    "Facility Type": "MUSEUM",
+    "Address": "PLUS 15 BMO CENTRE 20 ROUNDUP WAY S.E CALGARY ALBERTA T2G 2W1 CANADA",
+    "Latitude": "..",
+    "Longitude": ".."
+  },
+  {
+    "Index": 118,
+    "Facility Name": "THE NEW GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "208 CENTRE ST. SE CALGARY ALBERTA T2G 2B6 CANADA",
+    "Latitude": 51.0671198,
+    "Longitude": -114.1308434
+  },
+  {
+    "Index": 119,
+    "Facility Name": "THEATRE CALGARY",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "220 9 AV SE",
+    "Latitude": 51.04496079,
+    "Longitude": -114.0594411
+  },
+  {
+    "Index": 120,
+    "Facility Name": "TREPANIER BAER GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "#105 999 8 ST SW",
+    "Latitude": 51.04417108,
+    "Longitude": -114.0818688
+  },
+  {
+    "Index": 121,
+    "Facility Name": "UNITED FARMERS HISTORICAL SOCIETY",
+    "Facility Type": "MUSEUM",
+    "Address": "SUITE 700 4838 RICHARD ROAD S.W. CALGARY ALBERTA T3E 6L1 CANADA",
+    "Latitude": 51.0105212,
+    "Longitude": -114.1260961
+  },
+  {
+    "Index": 122,
+    "Facility Name": "UNIVERSITY OF CALGARY ARCHIVES",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "2500 UNIVERSITY DRIVE NORTH WEST CALGARY ALBERTA T2N 1N4 CANADA",
+    "Latitude": 51.0774607,
+    "Longitude": -114.1326646
+  },
+  {
+    "Index": 123,
+    "Facility Name": "UNIVERSITY OF CALGARY HERBARIUM",
+    "Facility Type": "MUSEUM",
+    "Address": "DEPT. OF BIOLOGICAL SCIENCES 2500 UNIVERSITY DRIVE NORTH WEST CALGARY ALBERTA T2N 1N4 CANADA",
+    "Latitude": 51.0774607,
+    "Longitude": -114.1326646
+  },
+  {
+    "Index": 124,
+    "Facility Name": "UNO ART GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "#307 3750 46 AV SE",
+    "Latitude": 51.01364446,
+    "Longitude": -113.9756672
+  },
+  {
+    "Index": 125,
+    "Facility Name": "VERTIGO MYSTERY THEATRE",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "#161 115 9 AV SE",
+    "Latitude": 51.04416124,
+    "Longitude": -114.0630898
+  },
+  {
+    "Index": 126,
+    "Facility Name": "VILLAGE SQUARE LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "2623 56 ST NE (51.0753708, -113.9525833)",
+    "Latitude": 51.0753708,
+    "Longitude": -113.9525833
+  },
+  {
+    "Index": 127,
+    "Facility Name": "W.R. CASTELL CENTRAL LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "616 MACLEOD TR SE (51.0470276, -114.0578995)",
+    "Latitude": 51.0470276,
+    "Longitude": -114.0578995
+  },
+  {
+    "Index": 128,
+    "Facility Name": "WALLACE GALLERIES",
+    "Facility Type": "GALLERY",
+    "Address": "#100 500 5 AV SW",
+    "Latitude": 51.04892588,
+    "Longitude": -114.072001
+  },
+  {
+    "Index": 129,
+    "Facility Name": "WANDERING SPIRIT NATIVE AWARENESS LTD",
+    "Facility Type": "MISCELLANEOUS",
+    "Address": "1191 RANCHLANDS BLVD. N.W CALGARY AB T3G 1G4",
+    "Latitude": 51.1239709,
+    "Longitude": -114.1793103
+  },
+  {
+    "Index": 130,
+    "Facility Name": "WEST COAST THEATRE OFFICE BUILDING",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "522 11 AV SW",
+    "Latitude": 51.04288697,
+    "Longitude": -114.0727301
+  },
+  {
+    "Index": 131,
+    "Facility Name": "WEST VILLAGE THEATRE SOCIETY",
+    "Facility Type": "THEATRE/PERFORMANCE AND CONCERT HALL",
+    "Address": "2007 10 AV SW",
+    "Latitude": 51.04432668,
+    "Longitude": -114.1073262
+  },
+  {
+    "Index": 132,
+    "Facility Name": "WESTBROOK LIBRARY",
+    "Facility Type": "LIBRARY OR ARCHIVES",
+    "Address": "1421 33 STREET SW (51.0404778, -114.138237)",
+    "Latitude": 51.0404778,
+    "Longitude": -114.138237
+  },
+  {
+    "Index": 133,
+    "Facility Name": "WESTFIELD HERITAGE SQUARE",
+    "Facility Type": "HERITAGE OR HISTORIC SITE",
+    "Address": "8500 MACLEOD TR SE",
+    "Latitude": 50.97665822,
+    "Longitude": -114.0704022
+  },
+  {
+    "Index": 134,
+    "Facility Name": "WILDFLOWER ARTS CENTRE",
+    "Facility Type": "ART OR CULTURAL CENTRE",
+    "Address": "3363 SPRUCE DR SW",
+    "Latitude": 51.04627241,
+    "Longitude": -114.1355338
+  },
+  {
+    "Index": 135,
+    "Facility Name": "YOU & I COFFEE GALLERY",
+    "Facility Type": "GALLERY",
+    "Address": "#290 400 4 AV SW",
+    "Latitude": 51.05004668,
+    "Longitude": -114.0708378
+  },
+  {
+    "Index": 136,
+    "Facility Name": "YOUTHLINK CALGARY-THE CALGARY POLICE INTERPRETIVE CENTRE & ARCHIVES",
+    "Facility Type": "MUSEUM",
+    "Address": "5111-47TH STREET NE LC594 CALGARY ALBERTA T3J 3R2 CANADA",
+    "Latitude": "..",
+    "Longitude": ".."
+  }
+]
