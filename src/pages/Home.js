@@ -1,24 +1,35 @@
-import NavBar from '../components/NavBar'
+import React from 'react'
+import {Navigate, useNavigate} from "react-router-dom"
+
 const Home = () => {
 
-    const authToken = false
+    const navigate = useNavigate()
 
-    const handleClick = () => {
-        console.log('clicked')
+    const handleClickSignUp = () => {
+        navigate('/createAccount')
+    }
+    const handleClickContinue = () => {
+        navigate('/dashboard')
     }
 
-
     return (
-        <>
-            <NavBar/>
-            <div className="Home">
-                <h1>This the home page yo.</h1>
-                <button className={"primary-button"} onClick={handleClick}>
-                    {authToken ? 'Sign Out' : 'Create Account'}
+        <div className="overlay">
+            <div className="home">
+                <div className="logo-container">
+                </div>
+                <h1>Be a Part of Reinvigorating Calgary as a Winter City Destination!</h1>
+
+                <button className="continue-button" onClick={handleClickContinue}>
+                    CONTINUE
+                </button>
+                <button className="signUp-button" onClick={handleClickSignUp}>
+                    SIGN UP
                 </button>
 
+
             </div>
-        </>
+        </div>
     )
 }
+
 export default Home

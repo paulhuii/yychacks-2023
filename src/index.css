@@ -1,13 +1,117 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+html {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  text-align: center;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  text-align: center;
 }
+
+/** HOME **/
+.home  .continue-button {
+  color: white;
+  text-transform: uppercase;
+  font-size: 15px;
+  background: #3457d2;
+  padding: 12px 30px;
+  border-radius: 30px;
+  border: none;
+}
+
+
+
+
+.home  .signUp-button {
+  color: white;
+  text-transform: uppercase;
+  font-size: 15px;
+  background: #45a320;
+  padding: 12px 30px;
+  border-radius: 20px;
+  border: none;
+}
+
+.signUp-button:hover {
+  background: linear-gradient(260deg, #3457d2,#45a320);
+}
+
+.continue-button:hover {
+  background: linear-gradient(260deg, #3457d2,#45a320);
+}
+
+/** REELS **/
+.reels {
+  margin:0;
+  padding: 0;
+}
+
+.video {
+  height: auto;
+}
+
+/**DASHBOARD**/
+.wrapper {
+  width: 95%;
+  margin: 0 auto;
+}
+
+#search-container {
+  margin: 1em 0;
+}
+#search-container input {
+  background-color: transparent;
+  width: 40%;
+  padding: 1em 0.3em;
+  border-color: black;
+
+}
+
+#search-container input:focus{
+  border-bottom-color:#3457d2 ;
+}
+
+#search-container button{
+  padding: 1em 2em;
+  margin-left: 1em;
+  background-color: #3457d2;
+  color: white;
+  border-radius: 5px;
+  margin-top: 0.5em;
+}
+
+#buttons button {
+  border: 2px solid #3457d2;
+  padding: 1em 2.2em;
+  border-radius: 3em;
+  background-color: transparent;
+  color: #3457d2;
+  cursor: pointer;
+}
+
+/*** CREATE ACCOUNT/LOGIN ***/
+.h1 create {
+  text-align: center;
+}
+
+.create .form input[type=email], input[type=text], input[type=tel], input[type=password], input[type=number] {
+  width: 300px;
+  height: 25px;
+  background-color: white;
+  border-color: black;
+  border-width: 1px;
+  border-radius: 10px;
+  font-size: 16px;
+  text-align: center;
+}
+
+/*
+.create create-button {
+  text-transform: uppercase;
+  font-size: 15px;
+  background: #45a320;
+  padding: 12px 30px;
+  border-radius: 20px;
+  border: none;
+}*/
