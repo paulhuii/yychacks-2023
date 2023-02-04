@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+  
+.Winsport {
+  display: flex;
+  float: right;
+}
+
+.sport {
+  color: blue;
+  border-style: solid;
+  display: inline-block;
+}
+
+.snowboard{
+  border-radius: 8px;
+  width: 800px;
+}
+
+
+
