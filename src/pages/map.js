@@ -25,7 +25,7 @@ export default function Map (){
         </div>
 
         
-        <Stack direction='column' m={70}>
+        {/*<Stack direction='column' m={70}>
         <Image
     boxSize='500px'
     objectFit='cover'
@@ -47,7 +47,7 @@ export default function Map (){
     alt='Dan Abramov'
     py={'20px'}
   />
-  </Stack>
+    </Stack>*/}
 
   <AspectRatio ratio={16 / 9}>
   <iframe
