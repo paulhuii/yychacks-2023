@@ -3,7 +3,7 @@ const Login = () => {
         <div>
             <h1>Log in</h1>
 
-            <form>
+            <form name = "loginForm">
                 <p>
                     <label for="email">
                         <span>Email: </span>
@@ -19,11 +19,11 @@ const Login = () => {
                     </label>
                     <input type="password" id="pwd" name="password"/>
                 </p>
-
-                <div>
-                    <button type="submit">Create Account</button>
-                </div>
             </form>
+
+            <div>
+                <button type="submit">Create Account</button>
+            </div>
         </div>
     )
 }

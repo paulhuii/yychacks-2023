@@ -16,41 +16,49 @@ h1 {
   text-align: center
 }
 
-input[type=email], input[type=text], input[type=tel], input[type=password], input[type=number] {
-  width: 300px;
+input[type=email],
+input[type=text],
+input[type=tel],
+input[type=password],
+input[type=number] {
+  width: 400px;
   height: 25px;
   background-color: '#fff';
   border-color: '#ccc';
   border-width: 1px;
-  border-radius: 10px; 
+  border-radius: 10px;
   font-size: 16px;
   text-align: center;
 }
 
 button[type=submit] {
   background-color: #04aa15;
-  color: rgb(255, 255, 255) ;
+  color: rgb(255, 255, 255);
   padding: 16px 32px;
-  margin: 4px 2px;
   cursor: pointer;
   border-width: 1px;
   border-radius: 15px;
-  margin-left: auto;
+  /* margin: auto; */
 }
 
-form
+form[name = createAccountForm] {
+  padding-left: 425px;
+}
+
+form[name = loginForm] {
+  padding-left: 500px;
+}
+
+label[for="email"],
+label[for="username"],
+label[for="userphone"],
+label[for="pwd"]
 {
-  padding-left: 450px;
+  display: block;
 }
 
-input, label {
-  display:block;
-}
-
-fieldset
-{
+fieldset {
   width: 400px;
-  padding: 30px;
-  margin-left: 380px;
+  padding: 35px;
+  margin-left: 390px;
 }
-

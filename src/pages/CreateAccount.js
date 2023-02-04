@@ -5,7 +5,7 @@ const CreateAccount = () => {
         <div>
             <h1>Create Account</h1>
 
-            <form>
+            <form name = "createAccountForm">
                 <p>
                     Required fields are followed by 
                     <strong><span aria-label="required">*</span></strong>.
@@ -78,6 +78,10 @@ const CreateAccount = () => {
 
                 <div>
                     <button type="submit">Create Account</button>
+                </div>
+
+                <div>
+                    <a href="url"> Already have an account? Click here </a>
                 </div>
         </div>
     )
