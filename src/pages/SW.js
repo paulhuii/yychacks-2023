@@ -1,14 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
 import Wheel from './wheel';
 
-import './SpinningWheel.css';
 
-export class SW extends React.Component {
+export default class SW extends React.Component {
     constructor() {
         super();
-        this.places = ['Free Coffee', 'Free Donut', 'Free House', 'Meet and Greet with Paul', 'Free Sushi ', 'Flames Tickets'];
+        this.places = ['Meet Paul!!!', 'Try Again :C', 'Meet Paul!!!', 'Try Again :C', 'Meet Paul!!!', 'Try Again :C '];
     }
 
     render() {
@@ -22,6 +20,4 @@ export class SW extends React.Component {
 }
 
 const rootElement = document.getElementById('root');
-ReactDOM.render(<SW />, rootElement);
-
-export default SW;
+ReactDOM.render(<SW/>, rootElement);

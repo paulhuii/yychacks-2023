@@ -43,12 +43,13 @@ body {
 
 /** REELS **/
 .reels {
-  margin:0;
-  padding: 0;
+  align-content: center;
 }
 
 .video {
   height: auto;
+  display: block;
+  align-content: center;
 }
 
 /**DASHBOARD**/
@@ -106,12 +107,248 @@ body {
   text-align: center;
 }
 
-/*
-.create create-button {
-  text-transform: uppercase;
-  font-size: 15px;
+
+/** CALENDAR **/
+.react-calendar {
+  width: 400px;
+  max-width: 100%;
+  background-color: #fff;
+  color: #222;
+  border-radius: 8px;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.125em;
+}
+.react-calendar__navigation button {
+  color: #3457d2;
+  min-width: 44px;
+  background: none;
+  font-size: 16px;
+  margin-top: 8px;
+}
+.react-calendar__navigation button:enabled:hover,
+.react-calendar__navigation button:enabled:focus {
+  background-color: #f8f8fa;
+}
+.react-calendar__navigation button[disabled] {
+  background-color: #f0f0f0;
+}
+abbr[title] {
+  text-decoration: none;
+}
+/* .react-calendar__month-view__days__day--weekend {
+ color: #d10000;
+} */
+.react-calendar__tile:enabled:hover,
+.react-calendar__tile:enabled:focus {
+  background: #f8f8fa;
+  border-radius: 6px;
+}
+.react-calendar__tile--now {
   background: #45a320;
-  padding: 12px 30px;
-  border-radius: 20px;
-  border: none;
-}*/
+  color: white;
+  border-radius: 6px;
+  font-weight: bold;
+}
+.react-calendar__tile--now:enabled:hover,
+.react-calendar__tile--now:enabled:focus {
+  background: #3457d2;
+  border-radius: 6px;
+  font-weight: bold;
+}
+.react-calendar__tile--hasActive:enabled:hover,
+.react-calendar__tile--hasActive:enabled:focus {
+  background: #f8f8fa;
+}
+.react-calendar__tile--active {
+  background: #3457d2;
+  border-radius: 6px;
+  font-weight: bold;
+  color: white;
+}
+.react-calendar__tile--active:enabled:hover,
+.react-calendar__tile--active:enabled:focus {
+  background: #3457d2;
+  color: white;
+}
+.react-calendar--selectRange .react-calendar__tile--hover {
+  background-color: #f8f8fa;
+}
+.react-calendar__tile--range {
+  background: #f8f8fa;
+  color: #3457d2;
+  border-radius: 0;
+}
+.react-calendar__tile--rangeStart {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  background: #3457d2;
+  color: white;
+}
+.react-calendar__tile--rangeEnd {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  background: #3457d2;
+  color: white;
+}
+
+/** SW **/
+:root {
+  --app-font: 'Quicksand', 'Lato', sans-serif;
+  --neutral-color: white;
+}
+
+.App {
+  font-family: var(--app-font);
+  text-align: center;
+  background: var(--neutral-color);
+  user-select: none;
+}
+
+/** WHEEL **/
+:root {
+  --wheel-font: 'Lato', 'Quicksand', sans-serif;
+  --wheel-size: 400px;
+  --wheel-slice-spacing: 50px;
+  --wheel-border-size: 5px;
+  --wheel-color: #fd0000;
+  --neutral-color: white;
+  --PI: 3.14159265358979;
+  --nb-item: 0;
+  --item-nb: 0;
+  --selected-item: 0;
+  --nb-turn: 5;
+  --spinning-duration: 4s;
+  --reset-duration: 0.25s;
+}
+
+/* Conteneur de la roue = cercle rose extérieur */
+.wheel-container {
+  display: block;
+  position: relative;
+  box-sizing: content-box;
+  width: calc(var(--wheel-size) + 2 * var(--wheel-border-size));
+  height: calc(var(--wheel-size) + 2 * var(--wheel-border-size));
+  padding: 3px;
+  margin: auto;
+  background-color: var(--neutral-color);
+  border: solid var(--wheel-color) 3px;
+  border-radius: 50%;
+  user-select: none;
+}
+
+/* Triangle de sélection = 1 rose +  1 blanc */
+.wheel-container::before,
+.wheel-container::after {
+  content: '';
+  display: block;
+  position: absolute;
+  height: 0;
+  width: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 2;
+  border: solid transparent 20px;
+  border-left-width: 0;
+}
+
+.wheel-container::before {
+  right: 0px;
+  border-right-color: var(--wheel-color);
+}
+
+.wheel-container::after {
+  right: -5px;
+  border-right-color: var(--neutral-color);
+}
+
+/* Roue */
+.wheel {
+  display: block;
+  position: relative;
+  box-sizing: content-box;
+  margin: auto;
+  width: var(--wheel-size);
+  height: var(--wheel-size);
+  overflow: hidden;
+  border-radius: 50%;
+  border: solid var(--wheel-color) var(--wheel-border-size);
+  background-color: var(--wheel-color);
+  transition: transform var(--reset-duration);
+  transform: rotate(0deg);
+  cursor: pointer;
+}
+
+.wheel.spinning {
+  transition: transform var(--spinning-duration);
+  transform: rotate(calc(var(--nb-turn) * 360deg + (-360deg * var(--selected-item) / var(--nb-item, 1))));
+}
+
+/* Centre de la roue = rond blanc au centre */
+.wheel::after {
+  display: block;
+  position: absolute;
+  content: '';
+  background-color: var(--neutral-color);
+  width: 25px;
+  height: 25px;
+  z-index: 2;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+}
+
+/* Element sur la roue */
+.wheel-item {
+  display: block;
+  position: absolute;
+  box-sizing: border-box;
+
+  /* position de l'item */
+  top: 50%;
+  left: 50%;
+  width: 50%;
+  transform-origin: center left;
+  transform: translateY(-50%) rotate(calc(var(--item-nb) * (360deg / var(--nb-item, 1))));
+
+  /* texte */
+  color: var(--neutral-color);
+  text-align: right;
+  padding: 0 25px 0 50px;
+  font-family: var(--wheel-font);
+}
+
+/* Background de l'élément = triangle rose plus clair */
+.wheel-item:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  box-sizing: border-box;
+  z-index: -1;
+  width: 0;
+  height: 0;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding-left: 0px;
+  opacity: 0.25;
+
+  /*
+    Largeur du triangle
+    Je ne sais pas pourquoi j'ai besoin d'ajouter
+      " + var(--wheel-size) / 2 " dans slice-max-width  ==> donne 2.PI.R + R
+    mais globalement ca marche a peu près bien
+    TODO: A étudier
+  */
+  --slice-max-width: calc(var(--PI) * var(--wheel-size) + var(--wheel-size) / 2);
+  --slice-width: calc((var(--slice-max-width) / var(--nb-item)) - var(--wheel-slice-spacing));
+  border: solid transparent calc(var(--slice-width) / 2);
+  border-left: solid transparent 0;
+  /* profondeur du triangle = du centre de la roue à la bordure = 300px / 2 */
+  border-right: solid var(--neutral-color) calc(var(--wheel-size) / 2);
+}
