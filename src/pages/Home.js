@@ -1,3 +1,4 @@
+import NavBar from '../components/NavBar'
 const Home = () => {
 
     const authToken = false
@@ -5,8 +6,11 @@ const Home = () => {
     const handleClick = () => {
         console.log('clicked')
     }
+
+
     return (
         <>
+            <NavBar/>
             <div className="Home">
                 <h1>This the home page yo.</h1>
                 <button className={"primary-button"} onClick={handleClick}>
