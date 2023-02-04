@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Wheel from './wheel';
 
-import './SpinningWheel.css';
 
 export default class SW extends React.Component {
     constructor() {

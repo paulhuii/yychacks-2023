@@ -37,7 +37,7 @@ const Dashboard = () => {
     }
 
     const handleClickReel = () => {
-        navigate('/reel')
+        navigate('/reels')
     }
 
 
