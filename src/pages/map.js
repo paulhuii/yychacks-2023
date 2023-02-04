@@ -10,7 +10,7 @@ export default function Map (){
 <div>
         <div className="header">
             <Heading className="title">
-                SORT & RECREATION 
+                SPORT & RECREATION 
             </Heading>
             
   

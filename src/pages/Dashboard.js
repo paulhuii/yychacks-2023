@@ -32,6 +32,10 @@ const Dashboard = () => {
         navigate('/sports')
     }
 
+    const handleClickArt = () => {
+        navigate('/art')
+    }
+
     const handleClickHome = () => {
         navigate('/dashboard')
     }
@@ -119,9 +123,9 @@ const Dashboard = () => {
                         borderRadius='lg'
                     />
                     <Stack mt='6' spacing='3'>
-                        <Heading size='md'>Art</Heading>
+                        <Heading size='md'>Art & Culture</Heading>
                         <Text>
-                            Art and related in Calgary
+                            Arts and culture in Calgary
                         </Text>
                         <Text color='blue.600' fontSize='2xl'>
                         </Text>
@@ -130,7 +134,7 @@ const Dashboard = () => {
                 <Divider />
                 <CardFooter>
                     <ButtonGroup spacing='2'>
-                        <Button variant='solid' colorScheme='blue'>
+                        <Button variant='solid' colorScheme='blue' onClick={handleClickArt}>
                             Click for More!
                         </Button>
 
