@@ -14,7 +14,7 @@ const Home = () => {
             <div className="Home">
                 <h1>This the home page yo.</h1>
                 <button className={"primary-button"} onClick={handleClick}>
-                    {authToken ? 'Sign Out' : 'Create Account'}
+                    {authToken ? 'Sign Out' : 'Sign In'}
                 </button>
 
             </div>
