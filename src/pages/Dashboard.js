@@ -29,7 +29,7 @@ const Dashboard = () => {
         navigate('/trending')
     }
     const handleClickSports = () => {
-        navigate('/map')
+        navigate('/sports')
     }
 
     const handleClickArt = () => {
