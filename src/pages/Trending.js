@@ -54,7 +54,7 @@ const Trending = () => {
                             objectFit='cover'
                             src='https://livewirecalgary.com/wp-content/uploads/2021/12/rr3178-0653_FLT-large.jpg'
                             alt='chinookblast'
-                            mb={'20px'}
+                            mx={'20px'}
                             className="border"
                             onClick={handleClick}
                         />

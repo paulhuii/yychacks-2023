@@ -30,7 +30,7 @@ useEffect(()=>{
 
             <input type="text" onChange={(e) => setSeach(e.target.value)} value = {search} className="search"/>
             <Stack direction='row' spacing={4}>
-  <Button color='black'  bg='white' variant='solid' className="botton">
+  <Button color='black'  bg='#3457d2' variant='solid' className="botton">
     Search
   </Button>
 </Stack>
