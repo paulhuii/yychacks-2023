@@ -1,8 +1,7 @@
+import DatePicker from "react-datepicker";
+import {useState} from "react";
+
 const Sports = () => {
-    return (
-        <div>
-            Sports
-        </div>
-    )
+  <div>Sports</div>
 }
 export default Sports

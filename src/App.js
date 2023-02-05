@@ -8,6 +8,7 @@ import Trending from "./pages/Trending"
 import Sports from "./pages/Sports"
 import SW from "./pages/SW";
 import Calendar from "react-calendar";
+import Map from "./pages/Map"
 
 
 const App = () => {
@@ -23,6 +24,8 @@ const App = () => {
             <Route path={"/sports"} element={<Sports/>}/>
             <Route path={"/SW"} element={<SW/>}/>
             <Route path={"/Calendar"} element={<Calendar/>}/>
+            <Route path={"/map"} element={<Map/>}/>
+
 
 
         </Routes>

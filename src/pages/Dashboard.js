@@ -11,7 +11,9 @@ import {
     Card,
     CardBody, Heading, CardHeader, StackDivider
 } from '@chakra-ui/react'
-import React from 'react'
+import {useState} from 'react'
+import DatePicker from "react-datepicker";
+
 import {Navigate, useNavigate} from "react-router-dom"
 import {MDBCol, MDBContainer, MDBFooter, MDBIcon, MDBRow} from "mdb-react-ui-kit";
 
@@ -29,7 +31,7 @@ const Dashboard = () => {
         navigate('/trending')
     }
     const handleClickSports = () => {
-        navigate('/sports')
+        navigate('/map')
     }
 
     const handleClickHome = () => {
@@ -42,7 +44,11 @@ const Dashboard = () => {
 
 
 
+
+    const [startDate, setStartDate] = useState(new Date());
+
     return (
+
         <div class="wrapper">
             <div id="search-container">
             <input
@@ -56,7 +62,14 @@ const Dashboard = () => {
                 <button className="button-value">All Ages</button>
                 <button className="button-value">$$$</button>
                 <button className="button-value">Pet-Friendly</button>
-                <button className="button-value">Dates</button>
+                <button className="button-value">
+                    Dates
+                    <DatePicker
+                        showIcon
+                        selected={startDate}
+                        onChange={(date) => setStartDate(date)}
+                    />
+                </button>
 
             </div>
 
@@ -173,8 +186,8 @@ const Dashboard = () => {
 
 
 
-
         </div>
+
     )
 }
 
