@@ -11,9 +11,9 @@ import {
     Card,
     CardBody, Heading, CardHeader, StackDivider
 } from '@chakra-ui/react'
-import React from 'react'
+import {useState} from 'react'
+
 import {Navigate, useNavigate} from "react-router-dom"
-import {MDBCol, MDBContainer, MDBFooter, MDBIcon, MDBRow} from "mdb-react-ui-kit";
 
 
 const category = {
@@ -29,7 +29,7 @@ const Dashboard = () => {
         navigate('/trending')
     }
     const handleClickSports = () => {
-        navigate('/sports')
+        navigate('/map')
     }
 
     const handleClickArt = () => {
@@ -46,7 +46,10 @@ const Dashboard = () => {
 
 
 
+
+
     return (
+
         <div class="wrapper">
             <div id="search-container">
             <input
@@ -60,7 +63,11 @@ const Dashboard = () => {
                 <button className="button-value">All Ages</button>
                 <button className="button-value">$$$</button>
                 <button className="button-value">Pet-Friendly</button>
-                <button className="button-value">Dates</button>
+                <button className="button-value">
+                <input type="date"
+                       name="Date"
+                       id="date"/>
+                </button>
 
             </div>
 
@@ -177,8 +184,8 @@ const Dashboard = () => {
 
 
 
-
         </div>
+
     )
 }
 

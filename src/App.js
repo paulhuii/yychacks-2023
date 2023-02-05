@@ -9,6 +9,8 @@ import Sports from "./pages/Sports"
 import Art from "./pages/Art"
 import SW from "./pages/SW";
 import Calendar from "react-calendar";
+import Map from "./pages/Map"
+
 
 const App = () => {
   return (
@@ -24,6 +26,10 @@ const App = () => {
             <Route path={"/art"} element={<Art/>}/>
             <Route path={"/SW"} element={<SW/>}/>
             <Route path={"/Calendar"} element={<Calendar/>}/>
+            <Route path={"/map"} element={<Map/>}/>
+
+
+
         </Routes>
       </BrowserRouter>
   );
