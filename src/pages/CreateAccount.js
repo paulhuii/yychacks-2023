@@ -5,6 +5,10 @@ const CreateAccount = () => {
         <div>
             <h1>Create Account</h1>
 
+            <div class="wrapper2">
+                <a href="url"> Already have an account? Click here! </a>
+            </div>
+
             <form name = "createAccountForm">
                 <p>
                     Required fields are followed by 
@@ -76,13 +80,10 @@ const CreateAccount = () => {
                     </p>
                 </fieldset>
 
-                <div>
+                <div class="wrapper">
                     <button type="submit">Create Account</button>
                 </div>
 
-                <div>
-                    <a href="url"> Already have an account? Click here </a>
-                </div>
         </div>
     )
 }
