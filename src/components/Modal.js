@@ -1,5 +1,6 @@
 import React from 'react'
 import './Modal.css'
+import Wheel from '../pages/wheel';
 
 function Modal({closeModal}){
     return(
@@ -12,7 +13,7 @@ function Modal({closeModal}){
                     <h1>Spin the wheel! Continue?</h1>
                 </div>
                 <div className='body'>
-                    <p>Wheel PlaceHolder</p>
+                    <Wheel items={['Meet Paul!!!', 'Try Again :C', 'Meet Paul!!!', 'Try Again :C', 'Meet Paul!!!', 'Try Again :C ']} />
                 </div>
                 <div className='footer'>
                     <button onClick={() => closeModal(false)}>Cancel</button>
