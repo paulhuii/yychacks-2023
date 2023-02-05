@@ -77,7 +77,7 @@ templateAreas={`"header map"`}
   </Stack>
   </GridItem>
   <GridItem pl='2' area={'map'} m={'100px'}>
-  <AspectRatio ratio={16 / 9}>
+  <AspectRatio ratio={1.85 / 1} className="sports-map">
   <iframe
     src="https://www.google.com/maps/d/embed?mid=1XremeVzV2c4ruq0uBIBT5_M0G3Mvxro&ehbc=2E312F&amp;ll=51.0447,-114.0719&amp;z=12" width="640" height="480"
   />
@@ -86,9 +86,7 @@ templateAreas={`"header map"`}
         
 </Grid>
  
- <Box bg='black' w='100%'  color='white' h={'90px'} className={'footer'}>
-  
-</Box>
+
         
         </div>
     );
