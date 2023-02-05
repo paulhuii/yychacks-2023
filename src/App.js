@@ -1,5 +1,4 @@
 import Home from './pages/Home'
-import MapPage from './pages/map'
 import Login from './pages/Login'
 import CreateAccount from './pages/CreateAccount'
 import Reels from "./pages/Reels"
@@ -16,7 +15,6 @@ const App = () => {
       <BrowserRouter>
         <Routes>
             <Route path={"/"} element={<Home/>}/>
-            <Route path={"/map"} element={<MapPage/>}/>
             <Route path={"/login"} element={<Login/>}/>
             <Route path={"/createAccount"} element={<CreateAccount/>}/>
             <Route path={"/reels"} element={<Reels/>}/>
