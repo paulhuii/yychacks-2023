@@ -1,7 +1,6 @@
 .modalBackground {
     width: 100vw;
     height: 100vh;
-    background-color: rgba(200, 200, 200);
     position: fixed;
     display: flex;
     justify-content: center;
@@ -42,7 +41,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 1.7rem;
+    font-size: 20px;
     text-align: center;
   }
   
@@ -58,11 +57,12 @@
     height: 45px;
     margin: 10px;
     border: none;
-    background-color: cornflowerblue;
+    background-color: #3457d2;
     color: white;
     border-radius: 8px;
     font-size: 20px;
     cursor: pointer;
+
   }
   
   #cancelBtn {

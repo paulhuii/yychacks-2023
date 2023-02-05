@@ -74,7 +74,7 @@ const Dashboard = () => {
             <Stack direction='table' m={50}>
             <Card maxW='sm'>
                 <CardBody>
-                    <Image w={2200}
+                    <Image className="images-dash" w={2200}
                         src='https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/1/16/1_6228473.jpg?cache_timestamp=1673874296285'
                         borderRadius='lg'
                     />
@@ -90,7 +90,7 @@ const Dashboard = () => {
                 <Divider />
                 <CardFooter>
                     <ButtonGroup spacing='2'>
-                        <Button variant='solid' colorScheme='blue' onClick={handleClickTop}>
+                        <Button className="click-button" variant='solid' colorScheme='blue' onClick={handleClickTop}>
                             Click for More!
                         </Button>
 
@@ -100,7 +100,7 @@ const Dashboard = () => {
 
             <Card maxW='sm'>
                 <CardBody>
-                    <Image  w={2200}
+                    <Image className="images-dash"  w={2200}
                         src='https://goskialberta.com/wp-content/uploads/2020/10/Canada-Olympic-Park2.jpg'
                         alt='Sports & Recreation'
                         borderRadius='lg'
@@ -117,7 +117,7 @@ const Dashboard = () => {
                 <Divider />
                 <CardFooter>
                     <ButtonGroup spacing='2'>
-                        <Button variant='solid' colorScheme='blue' onClick={handleClickSports}>
+                        <Button className="click-button"variant='solid' colorScheme='blue' onClick={handleClickSports}>
                            Click for More!
                         </Button>
                     </ButtonGroup>
@@ -125,7 +125,7 @@ const Dashboard = () => {
             </Card>
             <Card maxW='sm'>
                 <CardBody>
-                    <Image w={2200}
+                    <Image className="images-dash" w={2200}
                         src='https://scontent.fyyc1-1.fna.fbcdn.net/v/t39.30808-6/325792881_730713705059823_3534354746596138627_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=xLTTMLv-XfsAX_IWsnE&_nc_ht=scontent.fyyc1-1.fna&oh=00_AfBEb7peQTOYeStJZ2CCYjNKWbhnaOkOaNtYMV0YBABaQw&oe=63E4BBE4'
                         borderRadius='lg'
                     />
@@ -141,7 +141,7 @@ const Dashboard = () => {
                 <Divider />
                 <CardFooter>
                     <ButtonGroup spacing='2'>
-                        <Button variant='solid' colorScheme='blue' onClick={handleClickArt}>
+                        <Button className="click-button" variant='solid' colorScheme='blue' onClick={handleClickArt}>
                             Click for More!
                         </Button>
 
@@ -150,7 +150,7 @@ const Dashboard = () => {
             </Card>
             <Card maxW='sm'>
                 <CardBody>
-                    <Image w={2200}
+                    <Image className="images-dash" w={2200}
                         src='https://offloadmedia.feverup.com/secretvancouver.co/wp-content/uploads/2020/12/22045504/Dog-Sledding-Winter-Sport-Canada-scaled.jpg'
                         borderRadius='lg'
                     />
@@ -166,7 +166,7 @@ const Dashboard = () => {
                 <Divider />
                 <CardFooter>
                     <ButtonGroup spacing='2'>
-                        <Button variant='solid' colorScheme='blue' >
+                        <Button className="click-button" variant='solid' colorScheme='blue' >
                             Click for More!
                         </Button>
 

@@ -80,7 +80,7 @@ body {
 
 }
 .calgary {
-  font-size: xx-large;
+  font-size: xxx-large;
   color: white;
   position: center;
 }
@@ -128,10 +128,11 @@ body {
   color: white;
   text-transform: uppercase;
   font-size: 15px;
-  background: #45a320;
-  padding: 12px 30px;
+  background: #3457d2;
+  padding: 10px;
   border-radius: 20px;
   border: none;
+  margin-left: 450px;
 }
 /** REELS **/
 .reels {
@@ -584,6 +585,15 @@ img {
 
 }
 
+.VR {
+  margin-left: 90px ;
+  height: auto;
+}
 
+.click-button{
+  margin-left: 70px;
+}
 
-
+.images-dash{
+margin-left:1px;
+}

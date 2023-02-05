@@ -13,7 +13,7 @@ function Modal({closeModal}){
                     <h1>Spin the wheel! Continue?</h1>
                 </div>
                 <div className='body'>
-                    <Wheel items={['Meet Paul!!!', 'Try Again :C', 'Meet Paul!!!', 'Try Again :C', 'Meet Paul!!!', 'Try Again :C ']} />
+                    <Wheel items={['MEET PAUL', 'TRY AGAIN', '10% OFF SKATES', 'FREE TRANSIT PASS', 'FREE MEAL FOR 2 KIDS', 'FREE JOB @ PIXELTREE']} />
                 </div>
                 <div className='footer'>
                     <button onClick={() => closeModal(false)}>Cancel</button>
