@@ -1,5 +1,4 @@
 
-import DatePicker from "react-datepicker";
 
 
 import React, { useEffect } from "react"
@@ -9,10 +8,8 @@ import "aos/dist/aos.css"
 import { Button, Grid, GridItem, Heading, Stack,Box } from '@chakra-ui/react'
 import { Image } from '@chakra-ui/react'
 import { AspectRatio , Flex} from '@chakra-ui/react'
-//import Fade from 'react-reveal/Fade'
 export default function Map (){
 useEffect(()=>{
-//Aos.init({duration});
 },[])
     const [search, setSeach] = useState('')
     return( 
