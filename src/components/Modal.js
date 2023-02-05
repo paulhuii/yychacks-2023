@@ -9,13 +9,13 @@ function Modal({closeModal}){
                 <div className='titleCloseBtn'>
                 <button onClick={() => closeModal(false)}> X </button>
                 </div>
-                <div className='title'>
+                <div className='modal-title'>
                     <h1>Spin the wheel! Continue?</h1>
                 </div>
                 <div className='body'>
                     <Wheel items={['Meet Paul!!!', 'Try Again :C', 'Meet Paul!!!', 'Try Again :C', 'Meet Paul!!!', 'Try Again :C ']} />
                 </div>
-                <div className='footer'>
+                <div className='modal-footer'>
                     <button onClick={() => closeModal(false)}>Cancel</button>
                     <button>Continue</button>
                 </div>
