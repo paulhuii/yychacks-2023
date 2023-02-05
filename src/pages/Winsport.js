@@ -1,11 +1,11 @@
 const Winsport = () => {
     return (
         <>
-                <h1>SNOWBOARDING</h1>
+                <h1 classname='sporth1'>SNOWBOARDING</h1>
                 <div class="Winsport">
 
                 <img class="snowboard" src="Snowboard.jpeg" alt="snowboard"></img>
-                <p> 
+                <p classname='sportp'> 
                 Whether it's your first time snowboarding, you need a refresher, want to build confidence or just keep up with the kids, this is the program for you.
 
                 Adult snowboard programs are for snowboarders of all abilities who want to get out on the slopes and learn a new sport, or learn new skills for a sport they already love. You will gain confidence, connect with other adults, refine your technique and challenge yourself in a safe learning environment.

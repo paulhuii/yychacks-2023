@@ -417,19 +417,17 @@ abbr[title] {
           display: block;
 }
 
-body {
+.body {
   text-align: center;
+}
+
+.sportbody {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }
 
   
@@ -458,13 +456,106 @@ code {
   width: 800px;
 }
 
-p{
+.sportp{
   padding: 10px;
   text-align: justify;
 }
 
-h1{
+.sporth1{
   text-align: center;
   font-weight: 900;
   font-size: 60px;
+}
+
+body .loginbody {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("./rm451-bg-07.jpg")
+}
+
+.code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.loginh1 {
+  text-align: center;
+  color: #45a320;
+}
+
+input[type=email],
+input[type=text],
+input[type=tel],
+input[type=password],
+input[type=number] {
+  width: 400px;
+  height: 25px;
+  background-color: '#fff';
+  border-color: #45a320;
+  border-width: 1px;
+  border-radius: 10px;
+  font-size: 16px;
+  padding-left: 11px;
+}
+
+button[type=submit] {
+  background-color: #45a320;
+  color: rgb(255, 255, 255);
+  padding: 16px 32px;
+  cursor: pointer;
+  border-width: 1px;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+.createAccountForm {
+  padding-left: 425px;
+}
+
+.loginForm {
+  padding-left: 425px;
+}
+
+label[for="email"],
+label[for="username"],
+label[for="userphone"],
+label[for="pwd"]
+{
+  display: block;
+}
+
+.fieldset {
+  width: 400px;
+  padding: 35px;
+  margin-left: 390px;
+  border-color: #45a320;
+}
+
+.wrapper1{
+  text-align: center;
+}
+
+.wrapper2{
+  text-align: center;
+}
+
+.legend {
+  color: #45a320;
+}
+
+img[name="facebook"]{
+  padding-left: 50px;
+}
+
+img[name="google"]{
+  padding-left: 580px;
+}
+
+.wrapper3{
+  width: 100px;
+  margin: auto;
 }

@@ -1,21 +1,17 @@
-import {useNavigate} from "react-router-dom";
-
-/*
-<link rel="stylesheet" type="text/css" href="style.css" />
-*/
+import { Heading } from '@chakra-ui/react'
 
 const CreateAccount = () => {
-    const navigate = useNavigate()
-    const handleClick = () => {
-        navigate('/dashboard')
-    }
     return (
-        <div className="create">
-            <h1>Create Account</h1>
+        <div className='loginbody'>
+            <Heading className='loginh1' color='#45a320'>Create Account</Heading>
 
-            <form>
+            <div className="wrapper2">
+                <a href="url"> Already have an account? Click here! </a>
+            </div>
+
+            <form name="createAccountForm">
                 <p>
-                    Required fields are followed by
+                    Required fields are followed by 
                     <strong><span aria-label="required">*</span></strong>.
                 </p>
 
@@ -59,34 +55,34 @@ const CreateAccount = () => {
             </form>
 
             <fieldset>
-                <legend> Demographics (optional) </legend>
-                Are you a tourist, newcomer, or Calgary resident?
-                <p>
-                    <div>
-                        <label for="tourist">Tourist</label>
-                        <input type="radio" id="tourist" name="usertype" value="tourist" checked />
-                    </div>
+                    <legend> Demographics (optional) </legend>
+                    Are you a tourist, newcomer, or Calgary resident?
+                    <p>  
+                        <div>
+                            <label for="tourist">Tourist</label>
+                            <input type="radio" id="tourist" name="usertype" value="tourist" checked />
+                        </div>
+                        
+                        <div>
+                            <label for="newcomer">Newcomer</label>
+                            <input type="radio" id="newcomer" name="usertype" value="newcomer" checked />
+                        </div>
+                    
+                        <div>
+                            <label for="resident">Resident</label>
+                            <input type="radio" id="resident" name="usertype" value="resident" checked />
+                        </div>
+                    </p>
 
-                    <div>
-                        <label for="newcomer">Newcomer</label>
-                        <input type="radio" id="newcomer" name="usertype" value="newcomer" checked />
-                    </div>
+                    <p>
+                        <label for="userage">How old are you? </label>
+                        <input type="number" id="userage" name="userage" value="userage" checked />
+                    </p>
+                </fieldset>
 
-                    <div>
-                        <label for="resident">Resident</label>
-                        <input type="radio" id="resident" name="usertype" value="resident" checked />
-                    </div>
-                </p>
-
-                <p>
-                    <label for="userage">How old are you? </label>
-                    <input type="number" id="userage" name="userage" value="userage" checked />
-                </p>
-            </fieldset>
-
-            <div>
-                <button className="create-button" onClick={handleClick}>Create Account</button>
-            </div>
+                <div className="wrapper1">
+                    <button type="submit">Create Account</button>
+                </div>
         </div>
     )
 }
