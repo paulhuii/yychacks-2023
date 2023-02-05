@@ -6,6 +6,7 @@ import Dashboard from "./pages/Dashboard"
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
 import Trending from "./pages/Trending"
 import Sports from "./pages/Sports"
+import Art from "./pages/Art"
 import SW from "./pages/SW";
 import Calendar from "react-calendar";
 import Map from "./pages/Map"
@@ -22,6 +23,7 @@ const App = () => {
             <Route path={"/dashboard"} element={<Dashboard/>}/>
             <Route path={"/trending"} element={<Trending/>}/>
             <Route path={"/sports"} element={<Sports/>}/>
+            <Route path={"/art"} element={<Art/>}/>
             <Route path={"/SW"} element={<SW/>}/>
             <Route path={"/Calendar"} element={<Calendar/>}/>
             <Route path={"/map"} element={<Map/>}/>
