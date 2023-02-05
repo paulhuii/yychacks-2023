@@ -12,10 +12,8 @@ import {
     CardBody, Heading, CardHeader, StackDivider
 } from '@chakra-ui/react'
 import {useState} from 'react'
-import DatePicker from "react-datepicker";
 
 import {Navigate, useNavigate} from "react-router-dom"
-import {MDBCol, MDBContainer, MDBFooter, MDBIcon, MDBRow} from "mdb-react-ui-kit";
 
 
 const category = {
@@ -45,7 +43,6 @@ const Dashboard = () => {
 
 
 
-    const [startDate, setStartDate] = useState(new Date());
 
     return (
 
@@ -63,12 +60,9 @@ const Dashboard = () => {
                 <button className="button-value">$$$</button>
                 <button className="button-value">Pet-Friendly</button>
                 <button className="button-value">
-                    Dates
-                    <DatePicker
-                        showIcon
-                        selected={startDate}
-                        onChange={(date) => setStartDate(date)}
-                    />
+                <input type="date"
+                       name="Date"
+                       id="date"/>
                 </button>
 
             </div>

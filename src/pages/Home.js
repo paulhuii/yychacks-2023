@@ -13,10 +13,12 @@ const Home = () => {
     }
 
     return (
+
         <div className="overlay">
             <div className="home">
                 <div className="logo-container">
                 </div>
+                <h2>COME YYSEE</h2>
                 <h1>Be a Part of Reinvigorating Calgary as a Winter City Destination!</h1>
 
                 <button className="continue-button" onClick={handleClickContinue}>
