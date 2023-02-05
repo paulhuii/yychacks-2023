@@ -10,6 +10,9 @@ import Art from "./pages/Art"
 import SW from "./pages/SW";
 import Calendar from "react-calendar";
 import Map from "./pages/Map"
+import Winsport from "./pages/Winsport";
+import VR from "./pages/VR";
+import Cart from "./pages/Cart"
 
 
 const App = () => {
@@ -26,6 +29,13 @@ const App = () => {
             <Route path={"/art"} element={<Art/>}/>
             <Route path={"/SW"} element={<SW/>}/>
             <Route path={"/Calendar"} element={<Calendar/>}/>
+            <Route path={"/Winsport"} element={<Winsport/>}/>
+            <Route path={"/vr"} element={<VR/>}/>
+            <Route path={"/cart"} element={<Cart/>}/>
+
+
+
+
 
 
 

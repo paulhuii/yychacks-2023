@@ -8,10 +8,16 @@ import "aos/dist/aos.css"
 import { Button, Grid, GridItem, Heading, Stack,Box } from '@chakra-ui/react'
 import { Image } from '@chakra-ui/react'
 import { AspectRatio , Flex} from '@chakra-ui/react'
+import {useNavigate} from "react-router-dom";
 export default function Map (){
 useEffect(()=>{
 },[])
     const [search, setSeach] = useState('')
+    const navigate =useNavigate()
+
+    const handleClick = () => {
+    navigate('/Winsport')
+    }
     return( 
 <div>
         <div className="header" >
@@ -50,7 +56,7 @@ templateAreas={`"header map"`}
     alt='Pic1'
     mb={'20px'}
     className="border"
-  />
+  onClick={handleClick}/>
   <Image
     boxSize='500px'
     objectFit='cover'

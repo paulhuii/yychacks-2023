@@ -10,28 +10,102 @@ body {
 }
 
 /** HOME **/
-.home  .continue-button {
+/*.home  .continue-button {
   color: white;
   text-transform: uppercase;
-  font-size: 15px;
+  font-size: 18px;
   background: #3457d2;
-  padding: 12px 30px;
+  padding: 10px;
   border-radius: 30px;
   border: none;
+  cursor: pointer;
+  width: 200px;
+  align-content: space-between;
+
 }
-
-
-
 
 .home  .signUp-button {
   color: white;
   text-transform: uppercase;
-  font-size: 15px;
+  font-size: 18px;
   background: #45a320;
-  padding: 12px 30px;
+  padding: 10px;
   border-radius: 20px;
   border: none;
+  width: 200px;
+  cursor: pointer;
+  align-content: space-between;
+  margin-right: 100px;
+}*/
+/*
+
+.video-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
 }
+.video {
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+   }
+*/
+
+
+.overlay {
+  background-image: linear-gradient(to bottom right, #ffffff00);
+  opacity: .8;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  box-sizing: border-box;
+  padding: 15% 32px;
+  line-height: 1.5;
+  text-align: center;
+
+/*:last-child {
+  margin-bottom: 0;
+}*/
+
+}
+.calgary {
+  font-size: xx-large;
+  color: white;
+  position: center;
+}
+
+#signUp-button {
+  font-size: xx-large;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: none;
+  background-color: lightgrey;
+  margin-right: 20px;
+}
+
+#continue-button {
+  font-size: xx-large;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: none;
+  background-color: gray;
+
+}
+
+/*
 
 .signUp-button:hover {
   background: linear-gradient(260deg, #3457d2,#45a320);
@@ -39,7 +113,16 @@ body {
 
 .continue-button:hover {
   background: linear-gradient(260deg, #3457d2,#45a320);
-}
+}*/
+
+/*.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0,0,0,0.5);
+  color: white;
+  width: 100%;
+  padding:20px;
+}*/
 /**TRENDING **/
 .spin-button{
   color: white;
@@ -427,7 +510,48 @@ abbr[title] {
   box-shadow: 0px 12px 18px -6px rgba(0,0,0,0.3);
   height: 600px;
 
-
-
 }
+
+/**WINSPORT**/
+.Winsport {
+  display: flex;
+  float: right;
+}
+
+.sport {
+  color: white;
+  border-style: solid;
+  display: inline-block;
+  background-color: #555555;
+  border-radius: 4px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.sport:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+img {
+  border-radius: 8px;
+  width: 800px;
+}
+
+.p winsport{
+  padding: 10px;
+  text-align: justify;
+}
+
+.h1 winsport{
+  text-align: center;
+  font-weight: 900;
+  font-size: 60px;
+}
+
+
+
+
+
+
 

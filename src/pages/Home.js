@@ -1,5 +1,6 @@
 import React from 'react'
 import {Navigate, useNavigate} from "react-router-dom"
+import calgary from "../videos/calgary.mp4"
 
 const Home = () => {
 
@@ -13,24 +14,20 @@ const Home = () => {
     }
 
     return (
+        <div>
+            <video src={calgary} autoPlay loop muted/>
 
-        <div className="overlay">
-            <div className="home">
-                <div className="logo-container">
-                </div>
-                <h2>COME YYSEE</h2>
-                <h1>Be a Part of Reinvigorating Calgary as a Winter City Destination!</h1>
-
-                <button className="continue-button" onClick={handleClickContinue}>
-                    CONTINUE
-                </button>
-                <button className="signUp-button" onClick={handleClickSignUp}>
-                    SIGN UP
-                </button>
+            <div className="overlay">
+                <h1 className="calgary">COME YYSEE</h1>
+                <button id="signUp-button" onClick={handleClickSignUp}>SIGN UP</button>
+                <button id="continue-button" onClick={handleClickContinue}>CONTINUE</button>
 
 
-            </div>
         </div>
+        </div>
+
+
+
     )
 }
 

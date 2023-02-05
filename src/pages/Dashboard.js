@@ -74,8 +74,8 @@ const Dashboard = () => {
             <Stack direction='table' m={50}>
             <Card maxW='sm'>
                 <CardBody>
-                    <Image
-                        src='https://i.pinimg.com/564x/ec/8c/4d/ec8c4d909750bed8c17d784183028054.jpg'
+                    <Image w={2200}
+                        src='https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/1/16/1_6228473.jpg?cache_timestamp=1673874296285'
                         borderRadius='lg'
                     />
                     <Stack mt='6' spacing='3'>
@@ -100,8 +100,8 @@ const Dashboard = () => {
 
             <Card maxW='sm'>
                 <CardBody>
-                    <Image
-                        src='https://i.pinimg.com/564x/53/24/a6/5324a6747b19071e08c531384616a6ce.jpg'
+                    <Image  w={2200}
+                        src='https://goskialberta.com/wp-content/uploads/2020/10/Canada-Olympic-Park2.jpg'
                         alt='Sports & Recreation'
                         borderRadius='lg'
                     />
@@ -125,8 +125,8 @@ const Dashboard = () => {
             </Card>
             <Card maxW='sm'>
                 <CardBody>
-                    <Image
-                        src='https://i.pinimg.com/564x/7e/39/b3/7e39b3b342bca192731fdfac8e7787ec.jpg'
+                    <Image w={2200}
+                        src='https://scontent.fyyc1-1.fna.fbcdn.net/v/t39.30808-6/325792881_730713705059823_3534354746596138627_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=xLTTMLv-XfsAX_IWsnE&_nc_ht=scontent.fyyc1-1.fna&oh=00_AfBEb7peQTOYeStJZ2CCYjNKWbhnaOkOaNtYMV0YBABaQw&oe=63E4BBE4'
                         borderRadius='lg'
                     />
                     <Stack mt='6' spacing='3'>
@@ -150,8 +150,8 @@ const Dashboard = () => {
             </Card>
             <Card maxW='sm'>
                 <CardBody>
-                    <Image
-                        src='https://i.pinimg.com/736x/70/33/2d/70332dcd73b4905d77e9c5756feb99f4.jpg'
+                    <Image w={2200}
+                        src='https://offloadmedia.feverup.com/secretvancouver.co/wp-content/uploads/2020/12/22045504/Dog-Sledding-Winter-Sport-Canada-scaled.jpg'
                         borderRadius='lg'
                     />
                     <Stack mt='6' spacing='3'>
